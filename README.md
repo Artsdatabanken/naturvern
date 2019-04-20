@@ -5,6 +5,7 @@ Utdata fra lastejobb for Norske naturvernområder.
 
 * [Natur i Norge kart](https://github.com/Artsdatabanken/nin-kart-frontend)
 * [Artsdatabanken åpne data](https://data.artsdatabanken.no/)
+* [Egenskapsdata lastejobb](https://github.com/Artsdatabanken/nin-egenskapsdata-lastejobb-kverna)
 
 ### Baserer seg på åpne data fra (takk til)
 
