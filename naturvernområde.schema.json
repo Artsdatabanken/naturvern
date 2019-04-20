@@ -1,0 +1,83 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "items": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "item": {
+            "type": "string"
+          },
+          "naturbase": {
+            "type": "string"
+          },
+          "coords": {
+            "type": "string"
+          },
+          "itemLabel": {
+            "type": "string"
+          },
+          "article": {
+            "type": "string"
+          },
+          "inception": {
+            "type": "string"
+          },
+          "image": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string"
+          },
+          "elevation": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "item",
+          "naturbase",
+          "coords",
+          "itemLabel",
+          "article",
+          "inception",
+          "image",
+          "url",
+          "elevation"
+        ]
+      }
+    },
+    "meta": {
+      "type": "object",
+      "properties": {
+        "tittel": {
+          "type": "string"
+        },
+        "produsertUtc": {
+          "type": "string"
+        },
+        "utgiver": {
+          "type": "string"
+        },
+        "url": {
+          "type": "string"
+        },
+        "tool": {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "url": {
+              "type": "string"
+            }
+          }
+        },
+        "elementer": {
+          "type": "number"
+        }
+      }
+    }
+  }
+}
