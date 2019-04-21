@@ -42,3 +42,7 @@ Eksempel på innhold i utdata
 ```
 
 Nøkkel i JSON-objektet er identifikatoren i [Naturbase](https://www.miljodirektoratet.no/verktoy/naturbase/).
+
+### Logoer
+
+En del verneområder har [logoer](https://www.miljodirektoratet.no/om-oss/profilbank/norske-verneomrader/nasjonalparkene/nasjonalparklogoer/).  Disse er ikke med i datasettet.
