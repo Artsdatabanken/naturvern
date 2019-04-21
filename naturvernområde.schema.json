@@ -7,35 +7,123 @@
       "items": {
         "type": "object",
         "properties": {
-          "item": {
+          "forvaltning": {
+            "type": "object",
+            "properties": {
+              "myndighet": {
+                "type": "string"
+              },
+              "myndighettype": {
+                "type": "string"
+              }
+            }
+          },
+          "ident_lokalid": {
             "type": "string"
           },
-          "naturbase": {
+          "lenke": {
+            "type": "object",
+            "properties": {
+              "faktaark": {
+                "type": "string"
+              },
+              "verneforskrift": {
+                "type": "string"
+              }
+            }
+          },
+          "navn": {
+            "type": "object",
+            "properties": {
+              "navn": {
+                "type": "string"
+              },
+              "offisielt": {
+                "type": "string"
+              }
+            }
+          },
+          "revisjon": {
+            "type": "object",
+            "properties": {
+              "planbehov": {
+                "type": "string"
+              },
+              "plandato": {
+                "type": "string"
+              },
+              "status": {
+                "type": "string"
+              }
+            }
+          },
+          "vernedato": {
             "type": "string"
           },
-          "coords": {
-            "type": "string"
+          "verneform": {
+            "type": "object",
+            "properties": {
+              "kode": {
+                "type": "string"
+              },
+              "navn": {
+                "type": "object",
+                "properties": {
+                  "nb": {
+                    "type": "string"
+                  }
+                }
+              }
+            }
           },
-          "itemLabel": {
-            "type": "string"
+          "verneplan": {
+            "type": "object",
+            "properties": {
+              "indeks": {
+                "type": "string"
+              },
+              "kode": {
+                "type": "string"
+              },
+              "navn": {
+                "type": "object",
+                "properties": {
+                  "nb": {
+                    "type": "string"
+                  }
+                }
+              }
+            }
           },
-          "article": {
-            "type": "string"
-          },
-          "inception": {
-            "type": "string"
-          },
-          "image": {
-            "type": "string"
-          },
-          "url": {
-            "type": "string"
-          },
-          "elevation": {
-            "type": "string"
+          "vurdering": {
+            "type": "object",
+            "properties": {
+              "iucn": {
+                "type": "string"
+              },
+              "moblandprioritet": {
+                "type": "string"
+              },
+              "nettverk": {
+                "type": "string"
+              },
+              "truet": {
+                "type": "string"
+              }
+            }
           }
         },
-        "required": ["item", "naturbase", "coords", "itemLabel", "article"]
+        "required": [
+          "forvaltning",
+          "ident_lokalid",
+          "lenke",
+          "navn",
+          "revisjon",
+          "vernedato",
+          "verneform",
+          "verneplan",
+          "vurdering"
+        ]
       }
     },
     "meta": {
@@ -68,6 +156,9 @@
           "type": "number"
         }
       }
+    },
+    "$schema": {
+      "type": "string"
     }
   }
 }
