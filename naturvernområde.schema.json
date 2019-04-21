@@ -35,17 +35,7 @@
             "type": "string"
           }
         },
-        "required": [
-          "item",
-          "naturbase",
-          "coords",
-          "itemLabel",
-          "article",
-          "inception",
-          "image",
-          "url",
-          "elevation"
-        ]
+        "required": ["item", "naturbase", "coords", "itemLabel", "article"]
       }
     },
     "meta": {
