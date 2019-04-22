@@ -1,20 +1,37 @@
 {
-  "5": { "kode": "SF", "navn": { "nb": "Verneplan for sjøfugl" } },
-  "8": { "kode": "AV", "navn": { "nb": "Annet vern eller verneplan" } },
-  "6": { "kode": "SV", "navn": { "nb": "Skogvern" } },
-  "9": { "kode": "IV", "navn": { "nb": "Ikke vurdert" } },
-  "2": { "kode": "VV", "navn": { "nb": "Verneplan for våtmark" } },
-  "7": { "kode": "MV", "navn": { "nb": "Marin verneplan" } },
-  "1": {
-    "kode": "NP",
-    "navn": {
-      "nb": "Verneplan for nasjonalparker og andre større verneområder"
-    }
-  },
-  "4": {
-    "kode": "RL",
-    "navn": { "nb": "Verneplan for edelløvskog/rike løvskoger" }
-  },
-  "3": { "kode": "VM", "navn": { "nb": "Verneplan for myr" } },
-  "a8": { "kode": "KG", "navn": { "nb": "Kvartærgeologi" } }
+  "$schema": "https://raw.githubusercontent.com/Artsdatabanken/naturvern-data/master/verneplan.schema.json#",
+  "items": [
+    {
+      "tallkode": "1",
+      "kode": "NP",
+      "navn": {
+        "nb": "Verneplan for nasjonalparker og andre større verneområder"
+      }
+    },
+    {
+      "tallkode": "2",
+      "kode": "VV",
+      "navn": { "nb": "Verneplan for våtmark" }
+    },
+    { "tallkode": "3", "kode": "VM", "navn": { "nb": "Verneplan for myr" } },
+    {
+      "tallkode": "4",
+      "kode": "RL",
+      "navn": { "nb": "Verneplan for edelløvskog/rike løvskoger" }
+    },
+    {
+      "tallkode": "5",
+      "kode": "SF",
+      "navn": { "nb": "Verneplan for sjøfugl" }
+    },
+    { "tallkode": "6", "kode": "SV", "navn": { "nb": "Skogvern" } },
+    { "tallkode": "7", "kode": "MV", "navn": { "nb": "Marin verneplan" } },
+    {
+      "tallkode": "8",
+      "kode": "AV",
+      "navn": { "nb": "Annet vern eller verneplan" }
+    },
+    { "tallkode": "9", "kode": "IV", "navn": { "nb": "Ikke vurdert" } },
+    { "tallkode": "10", "kode": "KG", "navn": { "nb": "Kvartærgeologi" } }
+  ]
 }

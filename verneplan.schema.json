@@ -1,0 +1,33 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "items": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "tallkode": {
+            "type": "string"
+          },
+          "kode": {
+            "type": "string"
+          },
+          "navn": {
+            "type": "object",
+            "properties": {
+              "nb": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        "required": [
+          "tallkode",
+          "kode",
+          "navn"
+        ]
+      }
+    }
+  }
+}
