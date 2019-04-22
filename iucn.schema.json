@@ -1,0 +1,44 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "items": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "kode": {
+            "type": "string"
+          },
+          "kodeautor": {
+            "type": "number"
+          },
+          "tittel": {
+            "type": "object",
+            "properties": {
+              "nb": {
+                "type": "string"
+              },
+              "en": {
+                "type": "string"
+              }
+            }
+          },
+          "beskrivelse": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "kode",
+          "kodeautor",
+          "tittel",
+          "beskrivelse",
+          "url"
+        ]
+      }
+    }
+  }
+}

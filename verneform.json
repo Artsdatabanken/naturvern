@@ -1,37 +1,145 @@
 {
   "$schema": "https://raw.githubusercontent.com/Artsdatabanken/naturvern-data/master/verneplan.schema.json#",
   "items": [
-    { "kode": "NR", "navn": { "nb": "Naturreservat" } },
-    { "kode": "NP", "navn": { "nb": "Nasjonalpark" } },
-    { "kode": "LVO", "navn": { "nb": "Landskapsvernområde" } },
-    { "kode": "D", "navn": { "nb": "Dyrelivsfredning" } },
-    { "kode": "PD", "navn": { "nb": "Plante- og dyrelivsfredning" } },
-    { "kode": "NM", "navn": { "nb": "Naturminne" } },
     {
-      "kode": "LVOP",
-      "navn": { "nb": "Landskapsvernområde med plantelivsfredning" }
+      "kode": "VV-VF-NR",
+      "kodeautor": "NR",
+      "navn": {
+        "nb": "Naturreservat"
+      }
     },
-    { "kode": "DO", "navn": { "nb": "Dyrefredningsområde" } },
     {
-      "kode": "LVOD",
-      "navn": { "nb": "Landskapsvernområde med dyrelivsfredning" }
+      "kode": "VV-VF-NP",
+      "kodeautor": "NP",
+      "navn": {
+        "nb": "Nasjonalpark"
+      }
     },
-    { "kode": "PO", "navn": { "nb": "Plantefredningsområde" } },
     {
-      "kode": "LVOPD",
-      "navn": { "nb": "Landskapsvernområde med plante- og dyrelivsfredning" }
+      "kode": "VV-VF-LVO",
+      "kodeautor": "LVO",
+      "navn": {
+        "nb": "Landskapsvernområde"
+      }
     },
-    { "kode": "PDO", "navn": { "nb": "Plante- og dyrefredningsområde" } },
-    { "kode": "MIV", "navn": { "nb": "Midlertidig verna område/objekt" } },
-    { "kode": "P", "navn": { "nb": "Plantelivsfredning" } },
-    { "kode": "BVV", "navn": { "nb": "Biotopvern etter viltloven" } },
-    { "kode": "NRS", "navn": { "nb": "Naturreservat (Svalbardmiljøloven)" } },
-    { "kode": "NPS", "navn": { "nb": "Nasjonalpark (Svalbardmiljøloven)" } },
-    { "kode": "GVS", "navn": { "nb": "Geotopvern (Svalbardmiljøloven)" } },
     {
-      "kode": "MAV",
-      "navn": { "nb": "Marint verneområde (naturmangfoldloven)" }
+      "kode": "VV-VF-D",
+      "kodeautor": "D",
+      "navn": {
+        "nb": "Dyrelivsfredning"
+      }
     },
-    { "kode": "BV", "navn": { "nb": "Biotopvern" } }
+    {
+      "kode": "VV-VF-PD",
+      "kodeautor": "PD",
+      "navn": {
+        "nb": "Plante- og dyrelivsfredning"
+      }
+    },
+    {
+      "kode": "VV-VF-NM",
+      "kodeautor": "NM",
+      "navn": {
+        "nb": "Naturminne"
+      }
+    },
+    {
+      "kode": "VV-VF-LVOP",
+      "kodeautor": "LVOP",
+      "navn": {
+        "nb": "Landskapsvernområde med plantelivsfredning"
+      }
+    },
+    {
+      "kode": "VV-VF-DO",
+      "kodeautor": "DO",
+      "navn": {
+        "nb": "Dyrefredningsområde"
+      }
+    },
+    {
+      "kode": "VV-VF-LVOD",
+      "kodeautor": "LVOD",
+      "navn": {
+        "nb": "Landskapsvernområde med dyrelivsfredning"
+      }
+    },
+    {
+      "kode": "VV-VF-PO",
+      "kodeautor": "PO",
+      "navn": {
+        "nb": "Plantefredningsområde"
+      }
+    },
+    {
+      "kode": "VV-VF-LVOPD",
+      "kodeautor": "LVOPD",
+      "navn": {
+        "nb": "Landskapsvernområde med plante- og dyrelivsfredning"
+      }
+    },
+    {
+      "kode": "VV-VF-PDO",
+      "kodeautor": "PDO",
+      "navn": {
+        "nb": "Plante- og dyrefredningsområde"
+      }
+    },
+    {
+      "kode": "VV-VF-MIV",
+      "kodeautor": "MIV",
+      "navn": {
+        "nb": "Midlertidig verna område/objekt"
+      }
+    },
+    {
+      "kode": "VV-VF-P",
+      "kodeautor": "P",
+      "navn": {
+        "nb": "Plantelivsfredning"
+      }
+    },
+    {
+      "kode": "VV-VF-BVV",
+      "kodeautor": "BVV",
+      "navn": {
+        "nb": "Biotopvern etter viltloven"
+      }
+    },
+    {
+      "kode": "VV-VF-NRS",
+      "kodeautor": "NRS",
+      "navn": {
+        "nb": "Naturreservat (Svalbardmiljøloven)"
+      }
+    },
+    {
+      "kode": "VV-VF-NPS",
+      "kodeautor": "NPS",
+      "navn": {
+        "nb": "Nasjonalpark (Svalbardmiljøloven)"
+      }
+    },
+    {
+      "kode": "VV-VF-GVS",
+      "kodeautor": "GVS",
+      "navn": {
+        "nb": "Geotopvern (Svalbardmiljøloven)"
+      }
+    },
+    {
+      "kode": "VV-VF-MAV",
+      "kodeautor": "MAV",
+      "navn": {
+        "nb": "Marint verneområde (naturmangfoldloven)"
+      }
+    },
+    {
+      "kode": "VV-VF-BV",
+      "kodeautor": "BV",
+      "navn": {
+        "nb": "Biotopvern"
+      }
+    }
   ]
 }

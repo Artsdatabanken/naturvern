@@ -1,0 +1,54 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Artsdatabanken/naturvern-data/master/forvaltningsmyndighet.schema.json#",
+  "items": [
+    {
+      "kode": "VV-FM-FM",
+      "kodeautor": 1,
+      "tittel": {
+        "nb": "Forvaltes av fylkesmann"
+      }
+    },
+    {
+      "kode": "VV-FM-KO",
+      "kodeautor": 2,
+      "tittel": {
+        "nb": "Forvaltes av kommune"
+      }
+    },
+    {
+      "kode": "VV-FM-NP",
+      "kodeautor": 3,
+      "tittel": {
+        "nb": "Forvaltes av nasjonalparkstyre"
+      }
+    },
+    {
+      "kode": "VV-FM-VO",
+      "kodeautor": 4,
+      "tittel": {
+        "nb": "Forvaltes av verneområdestyre"
+      }
+    },
+    {
+      "kode": "VV-FM-FK",
+      "kodeautor": 6,
+      "tittel": {
+        "nb": "Forvaltes av fylkesmann og kommune"
+      }
+    },
+    {
+      "kode": "VV-FM-SM",
+      "kodeautor": 5,
+      "tittel": {
+        "nb": "Forvaltes av sysselmannen"
+      }
+    },
+    {
+      "kode": "VV-FM-IV",
+      "kodeautor": 7,
+      "tittel": {
+        "nb": "Ikke vurdert"
+      }
+    }
+  ]
+}

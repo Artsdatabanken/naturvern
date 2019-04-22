@@ -2,36 +2,52 @@
   "$schema": "https://raw.githubusercontent.com/Artsdatabanken/naturvern-data/master/verneplan.schema.json#",
   "items": [
     {
-      "tallkode": "1",
-      "kode": "NP",
+      "kodeautor": "1",
+      "kode": "VV-VP-NP",
       "navn": {
         "nb": "Verneplan for nasjonalparker og andre større verneområder"
       }
     },
     {
-      "tallkode": "2",
-      "kode": "VV",
+      "kodeautor": "2",
+      "kode": "VV-VP-VV",
       "navn": { "nb": "Verneplan for våtmark" }
     },
-    { "tallkode": "3", "kode": "VM", "navn": { "nb": "Verneplan for myr" } },
     {
-      "tallkode": "4",
-      "kode": "RL",
+      "kodeautor": "3",
+      "kode": "VV-VP-VM",
+      "navn": { "nb": "Verneplan for myr" }
+    },
+    {
+      "kodeautor": "4",
+      "kode": "VV-VP-RL",
       "navn": { "nb": "Verneplan for edelløvskog/rike løvskoger" }
     },
     {
-      "tallkode": "5",
-      "kode": "SF",
+      "kodeautor": "5",
+      "kode": "VV-VP-SF",
       "navn": { "nb": "Verneplan for sjøfugl" }
     },
-    { "tallkode": "6", "kode": "SV", "navn": { "nb": "Skogvern" } },
-    { "tallkode": "7", "kode": "MV", "navn": { "nb": "Marin verneplan" } },
+    { "kodeautor": "6", "kode": "VV-VP-SV", "navn": { "nb": "Skogvern" } },
     {
-      "tallkode": "8",
-      "kode": "AV",
+      "kodeautor": "7",
+      "kode": "VV-VP-MV",
+      "navn": { "nb": "Marin verneplan" }
+    },
+    {
+      "kodeautor": "8",
+      "kode": "VV-VP-AV",
       "navn": { "nb": "Annet vern eller verneplan" }
     },
-    { "tallkode": "9", "kode": "IV", "navn": { "nb": "Ikke vurdert" } },
-    { "tallkode": "10", "kode": "KG", "navn": { "nb": "Kvartærgeologi" } }
+    {
+      "kodeautor": "9",
+      "kode": "VV-VP-IV",
+      "navn": { "nb": "Ikke vurdert" }
+    },
+    {
+      "kodeautor": "10",
+      "kode": "VV-VP-KG",
+      "navn": { "nb": "Kvartærgeologi" }
+    }
   ]
 }

@@ -1,0 +1,40 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Artsdatabanken/naturvern-data/master/truetvurdering.schema.json#",
+  "items": [
+    {
+      "kode": "VV-TV-IT",
+      "kodeautor": 2,
+      "tittel": {
+        "nb": "Ikke truet"
+      }
+    },
+    {
+      "kode": "VV-TV-U",
+      "kodeautor": 3,
+      "tittel": {
+        "nb": "Truet vurdering: Ukjent"
+      }
+    },
+    {
+      "kode": "VV-TV-T",
+      "kodeautor": 1,
+      "tittel": {
+        "nb": "Truet"
+      }
+    },
+    {
+      "kode": "VV-TV-N",
+      "kodeautor": "undefined",
+      "tittel": {
+        "nb": "Truet vurdering: Null"
+      }
+    },
+    {
+      "kode": "VV-TV-IV",
+      "kodeautor": 4,
+      "tittel": {
+        "nb": "Ikke vurdert"
+      }
+    }
+  ]
+}

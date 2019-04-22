@@ -1,0 +1,36 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "$schema": {
+      "type": "string"
+    },
+    "items": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "kode": {
+            "type": "string"
+          },
+          "kodeautor": {
+            "type": "number"
+          },
+          "tittel": {
+            "type": "object",
+            "properties": {
+              "nb": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        "required": [
+          "kode",
+          "kodeautor",
+          "tittel"
+        ]
+      }
+    }
+  }
+}
