@@ -4,21 +4,32 @@
 
 Åpne data om Norske naturvernområder.
 
-## Kilde og bruk
-### Dataene brukes blant annet av
+## Dataflyt
 
-* [Natur i Norge kart](https://github.com/Artsdatabanken/nin-kart-frontend)
-* [Artsdatabanken åpne data](https://data.artsdatabanken.no/)
-* [Egenskapsdata lastejobb](https://github.com/Artsdatabanken/nin-egenskapsdata-lastejobb-kverna)
+![Flytdiagram](./doc/flytdiagram.svg)
+
+## Utdatasett
+
+Lastejobben som lager dette datasettet liggger i repo [naturvern-lastejobb](https://github.com/Artsdatabanken/naturvern-lastejobb).
 
 ### Baserer seg på åpne data fra (takk til)
 
-* [Miljødirektoratet](https://www.miljodirektoratet.no/)
-* [Wikidata](https://www.wikidata.org/wiki/Q473972)
+- [Miljødirektoratet](https://www.miljodirektoratet.no/)
+- [Wikidata](https://www.wikidata.org)
+- [Kartverket](https://kartkatalog.geonorge.no/metadata/kartverket/administrative-enheter-kommuner/041f1e6e-bdbc-4091-b48f-8a5990f3cc5b)
+
+### Leses av
+
+- [nin-data-lastejobb](https://github.com/Artsdatabanken/nin-data-lastejobb)
+
+### Bruk i sluttprodukter
+
+- [Natur i Norge kart](https://github.com/Artsdatabanken/nin-kart-frontend)
+- [Artsdatabanken åpne data](https://data.artsdatabanken.no/)
 
 ### Bygges av
 
-* [naturvern-lastejobb](https://github.com/Artsdatabanken/naturvern-lastejobb) (lastejobb)
+- [naturvern-lastejobb](https://github.com/Artsdatabanken/naturvern-lastejobb) (lastejobb)
 
 ## Datasettet
 
@@ -75,11 +86,12 @@ Egen [README om logo](./logo/README.md).
 
 ### Spesifikke logoer
 
-En del verneområder har egne logoer.  Disse ligger ikke her, men hos [Miljødirektoratet](https://www.miljodirektoratet.no/om-oss/profilbank/norske-verneomrader/nasjonalparkene/nasjonalparklogoer/).
+En del verneområder har egne logoer. Disse ligger ikke her, men hos [Miljødirektoratet](https://www.miljodirektoratet.no/om-oss/profilbank/norske-verneomrader/nasjonalparkene/nasjonalparklogoer/).
 
 ## Visuelt uttrykk
 
 ### Farger på vernelinjer
+
 Grensene for de fremhevede verneområdene skal være tydelige og tegnet med ulike farger avhengig av typen vern.
 
 Verneområder som ønskes vist utenfor interesseområdet kan vises med en tynnere font. Vernegrensene gis strektykkelse etter følgende oppsett:
@@ -88,7 +100,6 @@ Nasjonalpark vises med tykkere linje.
 Nabo-nasjonalpark vises med en tynnere linje og samme fargekode.
 Naturreservat vises med en tynnere linje.
 Annet verneområde vises med en tynnere linje.
-
 
 Verneformene fargesettes basert på følgende fargekoder:
 
