@@ -14,7 +14,7 @@ Lastejobben som lager dette datasettet liggger i repo [naturvern-lastejobb](http
 
 ### Baserer seg på åpne data fra (takk til)
 
-- [Miljødirektoratet](https://www.miljodirektoratet.no/)
+- [Miljødirektoratet](https://kartkatalog.geonorge.no/metadata/miljodirektoratet/naturvernomrader/5857ec0a-8d2c-4cd8-baa2-0dc54ae213b4)
 - [Wikidata](https://www.wikidata.org)
 - [Kartverket](https://kartkatalog.geonorge.no/metadata/kartverket/administrative-enheter-kommuner/041f1e6e-bdbc-4091-b48f-8a5990f3cc5b)
 
