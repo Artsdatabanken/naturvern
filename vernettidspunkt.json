@@ -1,5 +1,5 @@
 {
-  "$schema": "https://raw.githubusercontent.com/Artsdatabanken/naturvern-data/master/verneplan.schema.json#",
+  "$schema": "https://raw.githubusercontent.com/Artsdatabanken/naturvern-data/master/vernettidspunkt.schema.json#",
   "items": [
     { "kode": "VV-VT-1915", "navn": { "nb": "Vernet i 1915" } },
     { "kode": "VV-VT-1917", "navn": { "nb": "Vernet i 1917" } },

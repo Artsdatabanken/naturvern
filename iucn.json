@@ -1,4 +1,5 @@
 {
+  "$schema": "https://raw.githubusercontent.com/Artsdatabanken/naturvern-data/master/iucn.schema.json#",
   "items": [
     {
       "kode": "VV-PA-IA",
