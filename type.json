@@ -1,0 +1,55 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Artsdatabanken/naturvern-data/master/type.schema.json#",
+  "items": [
+    {
+      "kode": "VV",
+      "tittel": { "nb": "Naturvernområde" },
+      "ingress": "Verneområder opprettes først og fremst for å ta vare på naturens biologiske, landskapsmessige og geologiske mangfold og de økologiske prosessene. Dette skal foregå gjennom bærekraftig bruk og vern, slik at det også gir grunnlag for menneskenes virksomhet, kultur, helse og trivsel, nå og i fremtiden, også som grunnlag for samisk kultur. Verneområdene forvaltes av fylkesmennene, kommunene eller av egne nasjonalpark-/verneområdestyrer.",
+      "infoUrl": "https://kartkatalog.miljodirektoratet.no/Dataset/Details/0",
+      "sortering": 4
+    },
+    {
+      "kode": "VV-FM",
+      "tittel": { "nb": "Forvaltningsmyndighet" },
+      "ingress": "Ansvarlig forvaltningsmyndighet for området",
+      "type": "flagg"
+    },
+    {
+      "kode": "VV-PA",
+      "tittel": {
+        "nb": "Verneområdets status i IUCN",
+        "en": "Protected Area Categories"
+      },
+      "ingress": "Naturreservat Verdens Naturvernunion IUCN, har på oppdrag fra FN vedtatt et internasjonalt system for kategorisering av verneområder.",
+      "infoUrl": "https://www.iucn.org/theme/protected-areas/about/protected-area-categories",
+      "type": "flagg"
+    },
+    {
+      "kode": "VV-VP",
+      "tittel": { "nb": "Verneplan" },
+      "ingress": "Angir hva slags verneplan området tilhører.",
+      "type": "flagg"
+    },
+    {
+      "kode": "VV-VT",
+      "tittel": { "nb": "Vernet tidspunkt" },
+      "type": "flagg"
+    },
+    {
+      "kode": "VV-VF",
+      "tittel": { "nb": "Verneform" },
+      "ingress": "Ulike typer vern sortert under forskjellig lovverk og/med tilhørende restriksjoner",
+      "type": "flagg"
+    },
+    {
+      "kode": "VV-TV",
+      "tittel": { "nb": "Truet vurdering" },
+      "type": "flagg"
+    },
+    {
+      "kode": "VV-AO",
+      "tittel": { "nb": "Fylke" },
+      "type": "flagg"
+    }
+  ]
+}
