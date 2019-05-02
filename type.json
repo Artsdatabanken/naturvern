@@ -12,6 +12,7 @@
       "kode": "VV-FM",
       "tittel": { "nb": "Forvaltningsmyndighet" },
       "ingress": "Ansvarlig forvaltningsmyndighet for området",
+      "definisjon": "./forvaltningsmyndighet.json",
       "type": "flagg"
     },
     {
@@ -22,33 +23,39 @@
       },
       "ingress": "Naturreservat Verdens Naturvernunion IUCN, har på oppdrag fra FN vedtatt et internasjonalt system for kategorisering av verneområder.",
       "infoUrl": "https://www.iucn.org/theme/protected-areas/about/protected-area-categories",
+      "definisjon": "./iucn.json",
       "type": "flagg"
     },
     {
       "kode": "VV-VP",
       "tittel": { "nb": "Verneplan" },
       "ingress": "Angir hva slags verneplan området tilhører.",
+      "definisjon": "./verneplan.json",
       "type": "flagg"
     },
     {
       "kode": "VV-VT",
       "tittel": { "nb": "Vernet tidspunkt" },
+      "definisjon": "./vernettidspunkt.json",
       "type": "flagg"
     },
     {
       "kode": "VV-VF",
       "tittel": { "nb": "Verneform" },
       "ingress": "Ulike typer vern sortert under forskjellig lovverk og/med tilhørende restriksjoner",
+      "definisjon": "./verneform.json",
       "type": "flagg"
     },
     {
       "kode": "VV-TV",
       "tittel": { "nb": "Truet vurdering" },
+      "definisjon": "./truetvurdering.json",
       "type": "flagg"
     },
     {
       "kode": "VV-AO",
       "tittel": { "nb": "Fylke" },
+      "definisjon": "./kommune.json",
       "type": "flagg"
     }
   ]

@@ -37,13 +37,7 @@
             "type": "string"
           }
         },
-        "required": [
-          "kode",
-          "tittel",
-          "ingress",
-          "infoUrl",
-          "type"
-        ]
+        "required": ["kode", "tittel", "ingress"]
       }
     }
   }
