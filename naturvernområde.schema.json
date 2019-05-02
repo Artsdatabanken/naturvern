@@ -10,22 +10,57 @@
           "forvaltning": {
             "type": "object",
             "properties": {
-              "kode": {
-                "type": "string"
-              },
-              "kodeautor": {
-                "type": "number"
-              },
-              "myndighet": {
-                "type": "string"
-              },
-              "tittel": {
+              "ansvarlig": {
                 "type": "object",
                 "properties": {
-                  "nb": {
+                  "kode": {
+                    "type": "string"
+                  },
+                  "kodeautor": {
+                    "type": "number"
+                  },
+                  "tittel": {
+                    "type": "object",
+                    "properties": {
+                      "nb": {
+                        "type": "string"
+                      }
+                    }
+                  }
+                }
+              },
+              "instans": {
+                "type": "object",
+                "properties": {
+                  "navn": {
                     "type": "string"
                   }
                 }
+              }
+            }
+          },
+          "geografi": {
+            "type": "object",
+            "properties": {
+              "kommune": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "punkt": {
+                "type": "object",
+                "properties": {
+                  "bredde": {
+                    "type": "number"
+                  },
+                  "lengde": {
+                    "type": "number"
+                  }
+                }
+              },
+              "elevasjon": {
+                "type": "number"
               }
             }
           },
@@ -58,7 +93,7 @@
           "navn": {
             "type": "object",
             "properties": {
-              "navn": {
+              "kort": {
                 "type": "string"
               },
               "offisielt": {
@@ -72,13 +107,13 @@
               "dato": {
                 "type": "object",
                 "properties": {
+                  "førstvernet": {
+                    "type": "string"
+                  },
                   "plandato": {
                     "type": "string"
                   },
                   "vernet": {
-                    "type": "string"
-                  },
-                  "førstvernet": {
                     "type": "string"
                   }
                 }
@@ -132,31 +167,6 @@
           "vurdering": {
             "type": "object",
             "properties": {
-              "moblandprioritet": {
-                "type": "string"
-              },
-              "truet": {
-                "type": "object",
-                "properties": {
-                  "kode": {
-                    "type": "string"
-                  },
-                  "kodeautor": {
-                    "type": [
-                      "number",
-                      "string"
-                    ]
-                  },
-                  "tittel": {
-                    "type": "object",
-                    "properties": {
-                      "nb": {
-                        "type": "string"
-                      }
-                    }
-                  }
-                }
-              },
               "iucn": {
                 "type": "object",
                 "properties": {
@@ -185,36 +195,43 @@
                   }
                 }
               },
+              "moblandprioritet": {
+                "type": "string"
+              },
               "nettverk": {
                 "type": "string"
-              }
-            }
-          },
-          "geografi": {
-            "type": "object",
-            "properties": {
-              "senter": {
+              },
+              "truet": {
                 "type": "object",
                 "properties": {
-                  "latitude": {
-                    "type": "number"
+                  "kode": {
+                    "type": "string"
                   },
-                  "longitude": {
-                    "type": "number"
+                  "kodeautor": {
+                    "type": [
+                      "number",
+                      "string"
+                    ]
+                  },
+                  "tittel": {
+                    "type": "object",
+                    "properties": {
+                      "nb": {
+                        "type": "string"
+                      }
+                    }
                   }
                 }
               }
             }
           },
-          "image": {
-            "type": "string"
-          },
-          "elevation": {
+          "foto": {
             "type": "string"
           }
         },
         "required": [
           "forvaltning",
+          "geografi",
           "kode",
           "kodeautor",
           "lenke",
@@ -223,9 +240,7 @@
           "verneform",
           "verneplan",
           "vurdering",
-          "geografi",
-          "image",
-          "elevation"
+          "foto"
         ]
       }
     },
@@ -259,6 +274,9 @@
           "type": "number"
         }
       }
+    },
+    "$schema": {
+      "type": "string"
     }
   }
 }
