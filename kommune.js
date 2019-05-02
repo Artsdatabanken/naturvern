@@ -2643,7 +2643,7 @@
   ],
   "meta": {
     "tittel": "Kommune",
-    "produsertUtc": "2019-05-02T17:50:39.057Z",
+    "produsertUtc": "2019-05-02T17:59:56.546Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/naturvern/master/kommune.js",
     "tool": {
