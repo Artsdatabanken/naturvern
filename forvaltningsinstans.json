@@ -111,13 +111,14 @@
   ],
   "meta": {
     "tittel": "Forvaltningsinstans",
-    "produsertUtc": "2019-05-02T17:50:38.956Z",
+    "produsertUtc": "2019-05-02T17:59:56.448Z",
     "utgiver": "Artsdatabanken",
-    "url": "https://raw.githubusercontent.com/Artsdatabanken/naturvern/master/forvaltningsinstans.js",
+    "url": "https://raw.githubusercontent.com/Artsdatabanken/naturvern/master/forvaltningsinstans.json",
     "tool": {
       "name": "naturvern-lastejobb",
       "url": "https://github.com/Artsdatabanken/naturvern-lastejobb"
     },
     "elementer": 18
-  }
+  },
+  "$schema": "https://raw.githubusercontent.com/Artsdatabanken/naturvern/master/forvaltningsinstans.schema.json#"
 }
