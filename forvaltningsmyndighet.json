@@ -5,49 +5,49 @@
       "kode": "VV-FM-FM",
       "kodeautor": 1,
       "navn": {
-        "nor": "Forvaltes av fylkesmann"
+        "nob": "Forvaltes av fylkesmann"
       }
     },
     {
       "kode": "VV-FM-KO",
       "kodeautor": 2,
       "navn": {
-        "nor": "Forvaltes av kommune"
+        "nob": "Forvaltes av kommune"
       }
     },
     {
       "kode": "VV-FM-NP",
       "kodeautor": 3,
       "navn": {
-        "nor": "Forvaltes av nasjonalparkstyre"
+        "nob": "Forvaltes av nasjonalparkstyre"
       }
     },
     {
       "kode": "VV-FM-VO",
       "kodeautor": 4,
       "navn": {
-        "nor": "Forvaltes av verneområdestyre"
+        "nob": "Forvaltes av verneområdestyre"
       }
     },
     {
       "kode": "VV-FM-FK",
       "kodeautor": 6,
       "navn": {
-        "nor": "Forvaltes av fylkesmann og kommune"
+        "nob": "Forvaltes av fylkesmann og kommune"
       }
     },
     {
       "kode": "VV-FM-SM",
       "kodeautor": 5,
       "navn": {
-        "nor": "Forvaltes av sysselmannen"
+        "nob": "Forvaltes av sysselmannen"
       }
     },
     {
       "kode": "VV-FM-IV",
       "kodeautor": 7,
       "navn": {
-        "nor": "Ikke vurdert"
+        "nob": "Ikke vurdert"
       }
     }
   ]
