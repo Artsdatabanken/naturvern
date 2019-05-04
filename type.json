@@ -3,21 +3,21 @@
   "items": [
     {
       "kode": "VV",
-      "tittel": { "nb": "Naturvernområde" },
+      "navn": { "nb": "Naturvernområde" },
       "ingress": "Verneområder opprettes først og fremst for å ta vare på naturens biologiske, landskapsmessige og geologiske mangfold og de økologiske prosessene. Dette skal foregå gjennom bærekraftig bruk og vern, slik at det også gir grunnlag for menneskenes virksomhet, kultur, helse og trivsel, nå og i fremtiden, også som grunnlag for samisk kultur. Verneområdene forvaltes av fylkesmennene, kommunene eller av egne nasjonalpark-/verneområdestyrer.",
       "infoUrl": "https://kartkatalog.miljodirektoratet.no/Dataset/Details/0",
       "sortering": 4
     },
     {
       "kode": "VV-FM",
-      "tittel": { "nb": "Forvaltningsmyndighet" },
+      "navn": { "nb": "Forvaltningsmyndighet" },
       "ingress": "Ansvarlig forvaltningsmyndighet for området",
       "definisjon": "./forvaltningsmyndighet.json",
       "type": "flagg"
     },
     {
       "kode": "VV-PA",
-      "tittel": {
+      "navn": {
         "nb": "Verneområdets status i IUCN",
         "en": "Protected Area Categories"
       },
@@ -28,33 +28,33 @@
     },
     {
       "kode": "VV-VP",
-      "tittel": { "nb": "Verneplan" },
+      "navn": { "nb": "Verneplan" },
       "ingress": "Angir hva slags verneplan området tilhører.",
       "definisjon": "./verneplan.json",
       "type": "flagg"
     },
     {
       "kode": "VV-VT",
-      "tittel": { "nb": "Vernet tidspunkt" },
+      "navn": { "nb": "Vernet tidspunkt" },
       "definisjon": "./vernettidspunkt.json",
       "type": "flagg"
     },
     {
       "kode": "VV-VF",
-      "tittel": { "nb": "Verneform" },
+      "navn": { "nb": "Verneform" },
       "ingress": "Ulike typer vern sortert under forskjellig lovverk og/med tilhørende restriksjoner",
       "definisjon": "./verneform.json",
       "type": "flagg"
     },
     {
       "kode": "VV-TV",
-      "tittel": { "nb": "Truet vurdering" },
+      "navn": { "nb": "Truet vurdering" },
       "definisjon": "./truetvurdering.json",
       "type": "flagg"
     },
     {
       "kode": "VV-AO",
-      "tittel": { "nb": "Fylke" },
+      "navn": { "nb": "Fylke" },
       "definisjon": "./kommune.json",
       "type": "flagg"
     }

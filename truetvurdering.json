@@ -4,35 +4,35 @@
     {
       "kode": "VV-TV-IT",
       "kodeautor": 2,
-      "tittel": {
+      "navn": {
         "nb": "Ikke truet"
       }
     },
     {
       "kode": "VV-TV-U",
       "kodeautor": 3,
-      "tittel": {
+      "navn": {
         "nb": "Truet vurdering: Ukjent"
       }
     },
     {
       "kode": "VV-TV-T",
       "kodeautor": 1,
-      "tittel": {
+      "navn": {
         "nb": "Truet"
       }
     },
     {
       "kode": "VV-TV-N",
       "kodeautor": "undefined",
-      "tittel": {
+      "navn": {
         "nb": "Truet vurdering: Null"
       }
     },
     {
       "kode": "VV-TV-IV",
       "kodeautor": 4,
-      "tittel": {
+      "navn": {
         "nb": "Ikke vurdert"
       }
     }

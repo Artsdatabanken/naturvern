@@ -4,7 +4,7 @@
     {
       "kode": "VV-PA-IA",
       "kodeautor": 1,
-      "tittel": {
+      "navn": {
         "nb": "Vern med tanke på vitenskapelige undersøkelser og/eller miljøovervåking",
         "en": "Strict Nature Reserve"
       },
@@ -14,7 +14,7 @@
     {
       "kode": "VV-PA-II",
       "kodeautor": 3,
-      "tittel": {
+      "navn": {
         "nb": "Vern av økosystemer og friluftsliv",
         "en": "National Park"
       },
@@ -24,7 +24,7 @@
     {
       "kode": "VV-PA-V",
       "kodeautor": 6,
-      "tittel": {
+      "navn": {
         "nb": "Landskapsvern og friluftsliv - Landskapsvernområde",
         "en": "Protected Landscape/ Seascape"
       },
@@ -34,7 +34,7 @@
     {
       "kode": "VV-PA-III",
       "kodeautor": 4,
-      "tittel": {
+      "navn": {
         "nb": "Vern av naturlige attraksjoner",
         "en": "Natural Monument or Feature"
       },
@@ -44,7 +44,7 @@
     {
       "kode": "VV-PA-IV",
       "kodeautor": 5,
-      "tittel": {
+      "navn": {
         "nb": "Vern gjennom aktiv forvaltning - Artsfredningsområder etc",
         "en": "Habitat/Species Management Area"
       },
@@ -54,7 +54,7 @@
     {
       "kode": "VV-PA-IB",
       "kodeautor": 2,
-      "tittel": {
+      "navn": {
         "nb": "Vern for å beskytte den opprinnelige miljløtilstanden og/eller villmarksområder",
         "en": "Wilderness Area"
       },
