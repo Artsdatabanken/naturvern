@@ -5,140 +5,140 @@
       "kode": "VV-VF-NR",
       "kodeautor": "NR",
       "navn": {
-        "nb": "Naturreservat"
+        "nob": "Naturreservat"
       }
     },
     {
       "kode": "VV-VF-NP",
       "kodeautor": "NP",
       "navn": {
-        "nb": "Nasjonalpark"
+        "nob": "Nasjonalpark"
       }
     },
     {
       "kode": "VV-VF-LVO",
       "kodeautor": "LVO",
       "navn": {
-        "nb": "Landskapsvernområde"
+        "nob": "Landskapsvernområde"
       }
     },
     {
       "kode": "VV-VF-D",
       "kodeautor": "D",
       "navn": {
-        "nb": "Dyrelivsfredning"
+        "nob": "Dyrelivsfredning"
       }
     },
     {
       "kode": "VV-VF-PD",
       "kodeautor": "PD",
       "navn": {
-        "nb": "Plante- og dyrelivsfredning"
+        "nob": "Plante- og dyrelivsfredning"
       }
     },
     {
       "kode": "VV-VF-NM",
       "kodeautor": "NM",
       "navn": {
-        "nb": "Naturminne"
+        "nob": "Naturminne"
       }
     },
     {
       "kode": "VV-VF-LVOP",
       "kodeautor": "LVOP",
       "navn": {
-        "nb": "Landskapsvernområde med plantelivsfredning"
+        "nob": "Landskapsvernområde med plantelivsfredning"
       }
     },
     {
       "kode": "VV-VF-DO",
       "kodeautor": "DO",
       "navn": {
-        "nb": "Dyrefredningsområde"
+        "nob": "Dyrefredningsområde"
       }
     },
     {
       "kode": "VV-VF-LVOD",
       "kodeautor": "LVOD",
       "navn": {
-        "nb": "Landskapsvernområde med dyrelivsfredning"
+        "nob": "Landskapsvernområde med dyrelivsfredning"
       }
     },
     {
       "kode": "VV-VF-PO",
       "kodeautor": "PO",
       "navn": {
-        "nb": "Plantefredningsområde"
+        "nob": "Plantefredningsområde"
       }
     },
     {
       "kode": "VV-VF-LVODP",
       "kodeautor": "LVODP",
       "navn": {
-        "nb": "Landskapsvernområde med plante- og dyrelivsfredning"
+        "nob": "Landskapsvernområde med plante- og dyrelivsfredning"
       }
     },
     {
       "kode": "VV-VF-PDO",
       "kodeautor": "PDO",
       "navn": {
-        "nb": "Plante- og dyrefredningsområde"
+        "nob": "Plante- og dyrefredningsområde"
       }
     },
     {
       "kode": "VV-VF-MIV",
       "kodeautor": "MIV",
       "navn": {
-        "nb": "Midlertidig verna område/objekt"
+        "nob": "Midlertidig verna område/objekt"
       }
     },
     {
       "kode": "VV-VF-P",
       "kodeautor": "P",
       "navn": {
-        "nb": "Plantelivsfredning"
+        "nob": "Plantelivsfredning"
       }
     },
     {
       "kode": "VV-VF-BVV",
       "kodeautor": "BVV",
       "navn": {
-        "nb": "Biotopvern etter viltloven"
+        "nob": "Biotopvern etter viltloven"
       }
     },
     {
       "kode": "VV-VF-NRS",
       "kodeautor": "NRS",
       "navn": {
-        "nb": "Naturreservat (Svalbardmiljøloven)"
+        "nob": "Naturreservat (Svalbardmiljøloven)"
       }
     },
     {
       "kode": "VV-VF-NPS",
       "kodeautor": "NPS",
       "navn": {
-        "nb": "Nasjonalpark (Svalbardmiljøloven)"
+        "nob": "Nasjonalpark (Svalbardmiljøloven)"
       }
     },
     {
       "kode": "VV-VF-GVS",
       "kodeautor": "GVS",
       "navn": {
-        "nb": "Geotopvern (Svalbardmiljøloven)"
+        "nob": "Geotopvern (Svalbardmiljøloven)"
       }
     },
     {
       "kode": "VV-VF-MAV",
       "kodeautor": "MAV",
       "navn": {
-        "nb": "Marint verneområde (naturmangfoldloven)"
+        "nob": "Marint verneområde (naturmangfoldloven)"
       }
     },
     {
       "kode": "VV-VF-BV",
       "kodeautor": "BV",
       "navn": {
-        "nb": "Biotopvern"
+        "nob": "Biotopvern"
       }
     }
   ]

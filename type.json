@@ -3,14 +3,14 @@
   "items": [
     {
       "kode": "VV",
-      "navn": { "nb": "Naturvernområde" },
+      "navn": { "nob": "Naturvernområde" },
       "ingress": "Verneområder opprettes først og fremst for å ta vare på naturens biologiske, landskapsmessige og geologiske mangfold og de økologiske prosessene. Dette skal foregå gjennom bærekraftig bruk og vern, slik at det også gir grunnlag for menneskenes virksomhet, kultur, helse og trivsel, nå og i fremtiden, også som grunnlag for samisk kultur. Verneområdene forvaltes av fylkesmennene, kommunene eller av egne nasjonalpark-/verneområdestyrer.",
       "infoUrl": "https://kartkatalog.miljodirektoratet.no/Dataset/Details/0",
       "sortering": 4
     },
     {
       "kode": "VV-FM",
-      "navn": { "nb": "Forvaltningsmyndighet" },
+      "navn": { "nob": "Forvaltningsmyndighet" },
       "ingress": "Ansvarlig forvaltningsmyndighet for området",
       "definisjon": "./forvaltningsmyndighet.json",
       "type": "flagg"
@@ -18,8 +18,8 @@
     {
       "kode": "VV-PA",
       "navn": {
-        "nb": "Verneområdets status i IUCN",
-        "en": "Protected Area Categories"
+        "nob": "Verneområdets status i IUCN",
+        "eng": "Protected Area Categories"
       },
       "ingress": "Naturreservat Verdens Naturvernunion IUCN, har på oppdrag fra FN vedtatt et internasjonalt system for kategorisering av verneområder.",
       "infoUrl": "https://www.iucn.org/theme/protected-areas/about/protected-area-categories",
@@ -28,33 +28,33 @@
     },
     {
       "kode": "VV-VP",
-      "navn": { "nb": "Verneplan" },
+      "navn": { "nob": "Verneplan" },
       "ingress": "Angir hva slags verneplan området tilhører.",
       "definisjon": "./verneplan.json",
       "type": "flagg"
     },
     {
       "kode": "VV-VT",
-      "navn": { "nb": "Vernet tidspunkt" },
+      "navn": { "nob": "Vernet tidspunkt" },
       "definisjon": "./vernettidspunkt.json",
       "type": "flagg"
     },
     {
       "kode": "VV-VF",
-      "navn": { "nb": "Verneform" },
+      "navn": { "nob": "Verneform" },
       "ingress": "Ulike typer vern sortert under forskjellig lovverk og/med tilhørende restriksjoner",
       "definisjon": "./verneform.json",
       "type": "flagg"
     },
     {
       "kode": "VV-TV",
-      "navn": { "nb": "Truet vurdering" },
+      "navn": { "nob": "Truet vurdering" },
       "definisjon": "./truetvurdering.json",
       "type": "flagg"
     },
     {
       "kode": "VV-AO",
-      "navn": { "nb": "Fylke" },
+      "navn": { "nob": "Fylke" },
       "definisjon": "./kommune.json",
       "type": "flagg"
     }

@@ -16,7 +16,7 @@
           "navn": {
             "type": "object",
             "properties": {
-              "nb": {
+              "nob": {
                 "type": "string"
               }
             }
