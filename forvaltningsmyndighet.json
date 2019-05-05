@@ -4,6 +4,7 @@
     {
       "kode": "VV-FM-FM",
       "kodeautor": 1,
+      "definisjon": "./forvaltningsinstans.json",
       "navn": {
         "nob": "Forvaltes av fylkesmann"
       }
