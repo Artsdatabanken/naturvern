@@ -1623,7 +1623,7 @@
     {
       "kode": "VV-AO-15-02",
       "navn": {
-        "nob": "Naturvernområde i Molde kommune kommune"
+        "nob": "Naturvernområde i Molde kommune"
       }
     },
     {
@@ -1831,78 +1831,6 @@
       }
     },
     {
-      "kode": "VV-AO-16-12",
-      "navn": {
-        "nob": "Naturvernområde i Hemne kommune"
-      }
-    },
-    {
-      "kode": "VV-AO-16-21",
-      "navn": {
-        "nob": "Naturvernområde i Ørland kommune"
-      }
-    },
-    {
-      "kode": "VV-AO-16-33",
-      "navn": {
-        "nob": "Naturvernområde i Osen kommune"
-      }
-    },
-    {
-      "kode": "VV-AO-16-34",
-      "navn": {
-        "nob": "Naturvernområde i Oppdal kommune"
-      }
-    },
-    {
-      "kode": "VV-AO-16-65",
-      "navn": {
-        "nob": "Naturvernområde i Tydal kommune"
-      }
-    },
-    {
-      "kode": "VV-AO-17-02",
-      "navn": {
-        "nob": "Naturvernområde i Steinkjer kommune"
-      }
-    },
-    {
-      "kode": "VV-AO-17-14",
-      "navn": {
-        "nob": "Naturvernområde i Stjørdal kommune"
-      }
-    },
-    {
-      "kode": "VV-AO-17-39",
-      "navn": {
-        "nob": "Naturvernområde i Røyrvik kommune"
-      }
-    },
-    {
-      "kode": "VV-AO-17-42",
-      "navn": {
-        "nob": "Naturvernområde i Grong kommune"
-      }
-    },
-    {
-      "kode": "VV-AO-17-44",
-      "navn": {
-        "nob": "Naturvernområde i Overhalla kommune"
-      }
-    },
-    {
-      "kode": "VV-AO-17-51",
-      "navn": {
-        "nob": "Naturvernområde i Nærøy kommune"
-      }
-    },
-    {
-      "kode": "VV-AO-17-55",
-      "navn": {
-        "nob": "Naturvernområde i Leka kommune"
-      }
-    },
-    {
       "kode": "VV-AO-18-04",
       "navn": {
         "nob": "Naturvernområde i Bodø kommune"
@@ -1911,7 +1839,7 @@
     {
       "kode": "VV-AO-18-05",
       "navn": {
-        "nob": "Naturvernområde i Narvik kommune kommune"
+        "nob": "Naturvernområde i Narvik kommune"
       }
     },
     {
@@ -2427,13 +2355,25 @@
     {
       "kode": "VV-AO-50-01",
       "navn": {
-        "nob": "Naturvernområde i Trondheim kommune kommune"
+        "nob": "Naturvernområde i Trondheim kommune"
+      }
+    },
+    {
+      "kode": "VV-AO-50-04",
+      "navn": {
+        "nob": "Naturvernområde i Steinkjer kommune"
       }
     },
     {
       "kode": "VV-AO-50-05",
       "navn": {
         "nob": "Naturvernområde i Namsos kommune"
+      }
+    },
+    {
+      "kode": "VV-AO-50-11",
+      "navn": {
+        "nob": "Naturvernområde i Hemne kommune"
       }
     },
     {
@@ -2452,6 +2392,12 @@
       "kode": "VV-AO-50-14",
       "navn": {
         "nob": "Naturvernområde i Frøya kommune"
+      }
+    },
+    {
+      "kode": "VV-AO-50-15",
+      "navn": {
+        "nob": "Naturvernområde i Ørland kommune"
       }
     },
     {
@@ -2476,6 +2422,18 @@
       "kode": "VV-AO-50-19",
       "navn": {
         "nob": "Naturvernområde i Roan kommune"
+      }
+    },
+    {
+      "kode": "VV-AO-50-20",
+      "navn": {
+        "nob": "Naturvernområde i Osen kommune"
+      }
+    },
+    {
+      "kode": "VV-AO-50-21",
+      "navn": {
+        "nob": "Naturvernområde i Oppdal kommune"
       }
     },
     {
@@ -2545,9 +2503,21 @@
       }
     },
     {
+      "kode": "VV-AO-50-33",
+      "navn": {
+        "nob": "Naturvernområde i Tydal kommune"
+      }
+    },
+    {
       "kode": "VV-AO-50-34",
       "navn": {
         "nob": "Naturvernområde i Meråker kommune"
+      }
+    },
+    {
+      "kode": "VV-AO-50-35",
+      "navn": {
+        "nob": "Naturvernområde i Stjørdal kommune"
       }
     },
     {
@@ -2593,15 +2563,33 @@
       }
     },
     {
+      "kode": "VV-AO-50-43",
+      "navn": {
+        "nob": "Naturvernområde i Røyrvik kommune"
+      }
+    },
+    {
       "kode": "VV-AO-50-44",
       "navn": {
         "nob": "Naturvernområde i Namsskogan kommune"
       }
     },
     {
+      "kode": "VV-AO-50-45",
+      "navn": {
+        "nob": "Naturvernområde i Grong kommune"
+      }
+    },
+    {
       "kode": "VV-AO-50-46",
       "navn": {
         "nob": "Naturvernområde i Høylandet kommune"
+      }
+    },
+    {
+      "kode": "VV-AO-50-47",
+      "navn": {
+        "nob": "Naturvernområde i Overhalla kommune"
       }
     },
     {
@@ -2620,6 +2608,18 @@
       "kode": "VV-AO-50-50",
       "navn": {
         "nob": "Naturvernområde i Vikna kommune"
+      }
+    },
+    {
+      "kode": "VV-AO-50-51",
+      "navn": {
+        "nob": "Naturvernområde i Nærøy kommune"
+      }
+    },
+    {
+      "kode": "VV-AO-50-52",
+      "navn": {
+        "nob": "Naturvernområde i Leka kommune"
       }
     },
     {
@@ -2643,7 +2643,7 @@
   ],
   "meta": {
     "tittel": "Kommune",
-    "produsertUtc": "2019-05-04T08:03:08.469Z",
+    "produsertUtc": "2019-05-05T20:52:04.290Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/naturvern/master/kommune.json",
     "tool": {
