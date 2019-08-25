@@ -1,109 +1,109 @@
 {
   "items": [
     {
-      "kode": "VV-FM-FM-01",
+      "kode": "VV-FM-FM-TO-FL-01",
       "navn": {
         "nob": "Fylkesmannen i Østfold"
       }
     },
     {
-      "kode": "VV-FM-FM-02",
+      "kode": "VV-FM-FM-TO-FL-02",
       "navn": {
         "nob": "Fylkesmannen i Akershus"
       }
     },
     {
-      "kode": "VV-FM-FM-03",
+      "kode": "VV-FM-FM-TO-FL-03",
       "navn": {
         "nob": "Fylkesmannen i Oslo"
       }
     },
     {
-      "kode": "VV-FM-FM-04",
+      "kode": "VV-FM-FM-TO-FL-04",
       "navn": {
         "nob": "Fylkesmannen i Hedmark"
       }
     },
     {
-      "kode": "VV-FM-FM-05",
+      "kode": "VV-FM-FM-TO-FL-05",
       "navn": {
         "nob": "Fylkesmannen i Oppland"
       }
     },
     {
-      "kode": "VV-FM-FM-06",
+      "kode": "VV-FM-FM-TO-FL-06",
       "navn": {
         "nob": "Fylkesmannen i Buskerud"
       }
     },
     {
-      "kode": "VV-FM-FM-07",
+      "kode": "VV-FM-FM-TO-FL-07",
       "navn": {
         "nob": "Fylkesmannen i Vestfold"
       }
     },
     {
-      "kode": "VV-FM-FM-08",
+      "kode": "VV-FM-FM-TO-FL-08",
       "navn": {
         "nob": "Fylkesmannen i Telemark"
       }
     },
     {
-      "kode": "VV-FM-FM-09",
+      "kode": "VV-FM-FM-TO-FL-09",
       "navn": {
         "nob": "Fylkesmannen i Aust-Agder"
       }
     },
     {
-      "kode": "VV-FM-FM-10",
+      "kode": "VV-FM-FM-TO-FL-10",
       "navn": {
         "nob": "Fylkesmannen i Vest-Agder"
       }
     },
     {
-      "kode": "VV-FM-FM-11",
+      "kode": "VV-FM-FM-TO-FL-11",
       "navn": {
         "nob": "Fylkesmannen i Rogaland"
       }
     },
     {
-      "kode": "VV-FM-FM-12",
+      "kode": "VV-FM-FM-TO-FL-12",
       "navn": {
         "nob": "Fylkesmannen i Hordaland"
       }
     },
     {
-      "kode": "VV-FM-FM-14",
+      "kode": "VV-FM-FM-TO-FL-14",
       "navn": {
         "nob": "Fylkesmannen i Sogn og Fjordane"
       }
     },
     {
-      "kode": "VV-FM-FM-15",
+      "kode": "VV-FM-FM-TO-FL-15",
       "navn": {
         "nob": "Fylkesmannen i Møre og Romsdal"
       }
     },
     {
-      "kode": "VV-FM-FM-18",
+      "kode": "VV-FM-FM-TO-FL-18",
       "navn": {
         "nob": "Fylkesmannen i Nordland"
       }
     },
     {
-      "kode": "VV-FM-FM-19",
+      "kode": "VV-FM-FM-TO-FL-19",
       "navn": {
         "nob": "Fylkesmannen i Troms"
       }
     },
     {
-      "kode": "VV-FM-FM-20",
+      "kode": "VV-FM-FM-TO-FL-20",
       "navn": {
         "nob": "Fylkesmannen i Finnmark"
       }
     },
     {
-      "kode": "VV-FM-FM-50",
+      "kode": "VV-FM-FM-TO-FL-50",
       "navn": {
         "nob": "Fylkesmannen i Trøndelag"
       }
@@ -111,7 +111,7 @@
   ],
   "meta": {
     "tittel": "Forvaltningsinstans",
-    "produsertUtc": "2019-05-04T08:03:08.369Z",
+    "produsertUtc": "2019-08-25T17:52:14.858Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/naturvern/master/forvaltningsinstans.json",
     "tool": {
