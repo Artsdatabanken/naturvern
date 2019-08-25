@@ -1,2641 +1,2641 @@
 {
   "items": [
     {
-      "kode": "VV-AO-01",
+      "kode": "VV-AO-TO-FL-01",
       "navn": {
         "nob": "Naturvernområde i Østfold fylke"
       }
     },
     {
-      "kode": "VV-AO-02",
+      "kode": "VV-AO-TO-FL-02",
       "navn": {
         "nob": "Naturvernområde i Akershus fylke"
       }
     },
     {
-      "kode": "VV-AO-03",
+      "kode": "VV-AO-TO-FL-03",
       "navn": {
         "nob": "Naturvernområde i Oslo fylke"
       }
     },
     {
-      "kode": "VV-AO-04",
+      "kode": "VV-AO-TO-FL-04",
       "navn": {
         "nob": "Naturvernområde i Hedmark fylke"
       }
     },
     {
-      "kode": "VV-AO-05",
+      "kode": "VV-AO-TO-FL-05",
       "navn": {
         "nob": "Naturvernområde i Oppland fylke"
       }
     },
     {
-      "kode": "VV-AO-06",
+      "kode": "VV-AO-TO-FL-06",
       "navn": {
         "nob": "Naturvernområde i Buskerud fylke"
       }
     },
     {
-      "kode": "VV-AO-07",
+      "kode": "VV-AO-TO-FL-07",
       "navn": {
         "nob": "Naturvernområde i Vestfold fylke"
       }
     },
     {
-      "kode": "VV-AO-08",
+      "kode": "VV-AO-TO-FL-08",
       "navn": {
         "nob": "Naturvernområde i Telemark fylke"
       }
     },
     {
-      "kode": "VV-AO-09",
+      "kode": "VV-AO-TO-FL-09",
       "navn": {
         "nob": "Naturvernområde i Aust-Agder fylke"
       }
     },
     {
-      "kode": "VV-AO-10",
+      "kode": "VV-AO-TO-FL-10",
       "navn": {
         "nob": "Naturvernområde i Vest-Agder fylke"
       }
     },
     {
-      "kode": "VV-AO-11",
+      "kode": "VV-AO-TO-FL-11",
       "navn": {
         "nob": "Naturvernområde i Rogaland fylke"
       }
     },
     {
-      "kode": "VV-AO-12",
+      "kode": "VV-AO-TO-FL-12",
       "navn": {
         "nob": "Naturvernområde i Hordaland fylke"
       }
     },
     {
-      "kode": "VV-AO-14",
+      "kode": "VV-AO-TO-FL-14",
       "navn": {
         "nob": "Naturvernområde i Sogn og Fjordane fylke"
       }
     },
     {
-      "kode": "VV-AO-15",
+      "kode": "VV-AO-TO-FL-15",
       "navn": {
         "nob": "Naturvernområde i Møre og Romsdal fylke"
       }
     },
     {
-      "kode": "VV-AO-18",
+      "kode": "VV-AO-TO-FL-18",
       "navn": {
         "nob": "Naturvernområde i Nordland fylke"
       }
     },
     {
-      "kode": "VV-AO-19",
+      "kode": "VV-AO-TO-FL-19",
       "navn": {
         "nob": "Naturvernområde i Troms fylke"
       }
     },
     {
-      "kode": "VV-AO-20",
+      "kode": "VV-AO-TO-FL-20",
       "navn": {
         "nob": "Naturvernområde i Finnmark fylke"
       }
     },
     {
-      "kode": "VV-AO-50",
+      "kode": "VV-AO-TO-FL-50",
       "navn": {
         "nob": "Naturvernområde i Trøndelag fylke"
       }
     },
     {
-      "kode": "VV-AO-01-01",
+      "kode": "VV-AO-TO-FL-01-01",
       "navn": {
         "nob": "Naturvernområde i Halden kommune"
       }
     },
     {
-      "kode": "VV-AO-01-04",
+      "kode": "VV-AO-TO-FL-01-04",
       "navn": {
         "nob": "Naturvernområde i Moss kommune"
       }
     },
     {
-      "kode": "VV-AO-01-05",
+      "kode": "VV-AO-TO-FL-01-05",
       "navn": {
         "nob": "Naturvernområde i Sarpsborg kommune"
       }
     },
     {
-      "kode": "VV-AO-01-06",
+      "kode": "VV-AO-TO-FL-01-06",
       "navn": {
         "nob": "Naturvernområde i Fredrikstad kommune"
       }
     },
     {
-      "kode": "VV-AO-01-11",
+      "kode": "VV-AO-TO-FL-01-11",
       "navn": {
         "nob": "Naturvernområde i Hvaler kommune"
       }
     },
     {
-      "kode": "VV-AO-01-18",
+      "kode": "VV-AO-TO-FL-01-18",
       "navn": {
         "nob": "Naturvernområde i Aremark kommune"
       }
     },
     {
-      "kode": "VV-AO-01-19",
+      "kode": "VV-AO-TO-FL-01-19",
       "navn": {
         "nob": "Naturvernområde i Marker kommune"
       }
     },
     {
-      "kode": "VV-AO-01-21",
+      "kode": "VV-AO-TO-FL-01-21",
       "navn": {
         "nob": "Naturvernområde i Rømskog kommune"
       }
     },
     {
-      "kode": "VV-AO-01-22",
+      "kode": "VV-AO-TO-FL-01-22",
       "navn": {
         "nob": "Naturvernområde i Trøgstad kommune"
       }
     },
     {
-      "kode": "VV-AO-01-23",
+      "kode": "VV-AO-TO-FL-01-23",
       "navn": {
         "nob": "Naturvernområde i Spydeberg kommune"
       }
     },
     {
-      "kode": "VV-AO-01-24",
+      "kode": "VV-AO-TO-FL-01-24",
       "navn": {
         "nob": "Naturvernområde i Askim kommune"
       }
     },
     {
-      "kode": "VV-AO-01-25",
+      "kode": "VV-AO-TO-FL-01-25",
       "navn": {
         "nob": "Naturvernområde i Eidsberg kommune"
       }
     },
     {
-      "kode": "VV-AO-01-27",
+      "kode": "VV-AO-TO-FL-01-27",
       "navn": {
         "nob": "Naturvernområde i Skiptvet kommune"
       }
     },
     {
-      "kode": "VV-AO-01-28",
+      "kode": "VV-AO-TO-FL-01-28",
       "navn": {
         "nob": "Naturvernområde i Rakkestad kommune"
       }
     },
     {
-      "kode": "VV-AO-01-35",
+      "kode": "VV-AO-TO-FL-01-35",
       "navn": {
         "nob": "Naturvernområde i Råde kommune"
       }
     },
     {
-      "kode": "VV-AO-01-36",
+      "kode": "VV-AO-TO-FL-01-36",
       "navn": {
         "nob": "Naturvernområde i Rygge kommune"
       }
     },
     {
-      "kode": "VV-AO-01-37",
+      "kode": "VV-AO-TO-FL-01-37",
       "navn": {
         "nob": "Naturvernområde i Våler kommune"
       }
     },
     {
-      "kode": "VV-AO-01-38",
+      "kode": "VV-AO-TO-FL-01-38",
       "navn": {
         "nob": "Naturvernområde i Hobøl kommune"
       }
     },
     {
-      "kode": "VV-AO-02-11",
+      "kode": "VV-AO-TO-FL-02-11",
       "navn": {
         "nob": "Naturvernområde i Vestby kommune"
       }
     },
     {
-      "kode": "VV-AO-02-13",
+      "kode": "VV-AO-TO-FL-02-13",
       "navn": {
         "nob": "Naturvernområde i Ski kommune"
       }
     },
     {
-      "kode": "VV-AO-02-14",
+      "kode": "VV-AO-TO-FL-02-14",
       "navn": {
         "nob": "Naturvernområde i Ås kommune"
       }
     },
     {
-      "kode": "VV-AO-02-15",
+      "kode": "VV-AO-TO-FL-02-15",
       "navn": {
         "nob": "Naturvernområde i Frogn kommune"
       }
     },
     {
-      "kode": "VV-AO-02-16",
+      "kode": "VV-AO-TO-FL-02-16",
       "navn": {
         "nob": "Naturvernområde i Nesodden kommune"
       }
     },
     {
-      "kode": "VV-AO-02-17",
+      "kode": "VV-AO-TO-FL-02-17",
       "navn": {
         "nob": "Naturvernområde i Oppegård kommune"
       }
     },
     {
-      "kode": "VV-AO-02-19",
+      "kode": "VV-AO-TO-FL-02-19",
       "navn": {
         "nob": "Naturvernområde i Bærum kommune"
       }
     },
     {
-      "kode": "VV-AO-02-20",
+      "kode": "VV-AO-TO-FL-02-20",
       "navn": {
         "nob": "Naturvernområde i Asker kommune"
       }
     },
     {
-      "kode": "VV-AO-02-21",
+      "kode": "VV-AO-TO-FL-02-21",
       "navn": {
         "nob": "Naturvernområde i Aurskog-Høland kommune"
       }
     },
     {
-      "kode": "VV-AO-02-26",
+      "kode": "VV-AO-TO-FL-02-26",
       "navn": {
         "nob": "Naturvernområde i Sørum kommune"
       }
     },
     {
-      "kode": "VV-AO-02-27",
+      "kode": "VV-AO-TO-FL-02-27",
       "navn": {
         "nob": "Naturvernområde i Fet kommune"
       }
     },
     {
-      "kode": "VV-AO-02-28",
+      "kode": "VV-AO-TO-FL-02-28",
       "navn": {
         "nob": "Naturvernområde i Rælingen kommune"
       }
     },
     {
-      "kode": "VV-AO-02-29",
+      "kode": "VV-AO-TO-FL-02-29",
       "navn": {
         "nob": "Naturvernområde i Enebakk kommune"
       }
     },
     {
-      "kode": "VV-AO-02-30",
+      "kode": "VV-AO-TO-FL-02-30",
       "navn": {
         "nob": "Naturvernområde i Lørenskog kommune"
       }
     },
     {
-      "kode": "VV-AO-02-31",
+      "kode": "VV-AO-TO-FL-02-31",
       "navn": {
         "nob": "Naturvernområde i Skedsmo kommune"
       }
     },
     {
-      "kode": "VV-AO-02-33",
+      "kode": "VV-AO-TO-FL-02-33",
       "navn": {
         "nob": "Naturvernområde i Nittedal kommune"
       }
     },
     {
-      "kode": "VV-AO-02-34",
+      "kode": "VV-AO-TO-FL-02-34",
       "navn": {
         "nob": "Naturvernområde i Gjerdrum kommune"
       }
     },
     {
-      "kode": "VV-AO-02-35",
+      "kode": "VV-AO-TO-FL-02-35",
       "navn": {
         "nob": "Naturvernområde i Ullensaker kommune"
       }
     },
     {
-      "kode": "VV-AO-02-36",
+      "kode": "VV-AO-TO-FL-02-36",
       "navn": {
         "nob": "Naturvernområde i Nes kommune"
       }
     },
     {
-      "kode": "VV-AO-02-37",
+      "kode": "VV-AO-TO-FL-02-37",
       "navn": {
         "nob": "Naturvernområde i Eidsvoll kommune"
       }
     },
     {
-      "kode": "VV-AO-02-38",
+      "kode": "VV-AO-TO-FL-02-38",
       "navn": {
         "nob": "Naturvernområde i Nannestad kommune"
       }
     },
     {
-      "kode": "VV-AO-02-39",
+      "kode": "VV-AO-TO-FL-02-39",
       "navn": {
         "nob": "Naturvernområde i Hurdal kommune"
       }
     },
     {
-      "kode": "VV-AO-03-01",
+      "kode": "VV-AO-TO-FL-03-01",
       "navn": {
         "nob": "Naturvernområde i Oslo kommune"
       }
     },
     {
-      "kode": "VV-AO-04-02",
+      "kode": "VV-AO-TO-FL-04-02",
       "navn": {
         "nob": "Naturvernområde i Kongsvinger kommune"
       }
     },
     {
-      "kode": "VV-AO-04-03",
+      "kode": "VV-AO-TO-FL-04-03",
       "navn": {
         "nob": "Naturvernområde i Hamar kommune"
       }
     },
     {
-      "kode": "VV-AO-04-12",
+      "kode": "VV-AO-TO-FL-04-12",
       "navn": {
         "nob": "Naturvernområde i Ringsaker kommune"
       }
     },
     {
-      "kode": "VV-AO-04-15",
+      "kode": "VV-AO-TO-FL-04-15",
       "navn": {
         "nob": "Naturvernområde i Løten kommune"
       }
     },
     {
-      "kode": "VV-AO-04-17",
+      "kode": "VV-AO-TO-FL-04-17",
       "navn": {
         "nob": "Naturvernområde i Stange kommune"
       }
     },
     {
-      "kode": "VV-AO-04-18",
+      "kode": "VV-AO-TO-FL-04-18",
       "navn": {
         "nob": "Naturvernområde i Nord-Odal kommune"
       }
     },
     {
-      "kode": "VV-AO-04-19",
+      "kode": "VV-AO-TO-FL-04-19",
       "navn": {
         "nob": "Naturvernområde i Sør-Odal kommune"
       }
     },
     {
-      "kode": "VV-AO-04-20",
+      "kode": "VV-AO-TO-FL-04-20",
       "navn": {
         "nob": "Naturvernområde i Eidskog kommune"
       }
     },
     {
-      "kode": "VV-AO-04-23",
+      "kode": "VV-AO-TO-FL-04-23",
       "navn": {
         "nob": "Naturvernområde i Grue kommune"
       }
     },
     {
-      "kode": "VV-AO-04-25",
+      "kode": "VV-AO-TO-FL-04-25",
       "navn": {
         "nob": "Naturvernområde i Åsnes kommune"
       }
     },
     {
-      "kode": "VV-AO-04-26",
+      "kode": "VV-AO-TO-FL-04-26",
       "navn": {
         "nob": "Naturvernområde i Våler kommune"
       }
     },
     {
-      "kode": "VV-AO-04-27",
+      "kode": "VV-AO-TO-FL-04-27",
       "navn": {
         "nob": "Naturvernområde i Elverum kommune"
       }
     },
     {
-      "kode": "VV-AO-04-28",
+      "kode": "VV-AO-TO-FL-04-28",
       "navn": {
         "nob": "Naturvernområde i Trysil kommune"
       }
     },
     {
-      "kode": "VV-AO-04-29",
+      "kode": "VV-AO-TO-FL-04-29",
       "navn": {
         "nob": "Naturvernområde i Åmot kommune"
       }
     },
     {
-      "kode": "VV-AO-04-30",
+      "kode": "VV-AO-TO-FL-04-30",
       "navn": {
         "nob": "Naturvernområde i Stor-Elvdal kommune"
       }
     },
     {
-      "kode": "VV-AO-04-32",
+      "kode": "VV-AO-TO-FL-04-32",
       "navn": {
         "nob": "Naturvernområde i Rendalen kommune"
       }
     },
     {
-      "kode": "VV-AO-04-34",
+      "kode": "VV-AO-TO-FL-04-34",
       "navn": {
         "nob": "Naturvernområde i Engerdal kommune"
       }
     },
     {
-      "kode": "VV-AO-04-36",
+      "kode": "VV-AO-TO-FL-04-36",
       "navn": {
         "nob": "Naturvernområde i Tolga kommune"
       }
     },
     {
-      "kode": "VV-AO-04-37",
+      "kode": "VV-AO-TO-FL-04-37",
       "navn": {
         "nob": "Naturvernområde i Tynset kommune"
       }
     },
     {
-      "kode": "VV-AO-04-38",
+      "kode": "VV-AO-TO-FL-04-38",
       "navn": {
         "nob": "Naturvernområde i Alvdal kommune"
       }
     },
     {
-      "kode": "VV-AO-04-39",
+      "kode": "VV-AO-TO-FL-04-39",
       "navn": {
         "nob": "Naturvernområde i Folldal kommune"
       }
     },
     {
-      "kode": "VV-AO-04-41",
+      "kode": "VV-AO-TO-FL-04-41",
       "navn": {
         "nob": "Naturvernområde i Os kommune"
       }
     },
     {
-      "kode": "VV-AO-05-01",
+      "kode": "VV-AO-TO-FL-05-01",
       "navn": {
         "nob": "Naturvernområde i Lillehammer kommune"
       }
     },
     {
-      "kode": "VV-AO-05-02",
+      "kode": "VV-AO-TO-FL-05-02",
       "navn": {
         "nob": "Naturvernområde i Gjøvik kommune"
       }
     },
     {
-      "kode": "VV-AO-05-11",
+      "kode": "VV-AO-TO-FL-05-11",
       "navn": {
         "nob": "Naturvernområde i Dovre kommune"
       }
     },
     {
-      "kode": "VV-AO-05-12",
+      "kode": "VV-AO-TO-FL-05-12",
       "navn": {
         "nob": "Naturvernområde i Lesja kommune"
       }
     },
     {
-      "kode": "VV-AO-05-13",
+      "kode": "VV-AO-TO-FL-05-13",
       "navn": {
         "nob": "Naturvernområde i Skjåk kommune"
       }
     },
     {
-      "kode": "VV-AO-05-14",
+      "kode": "VV-AO-TO-FL-05-14",
       "navn": {
         "nob": "Naturvernområde i Lom kommune"
       }
     },
     {
-      "kode": "VV-AO-05-15",
+      "kode": "VV-AO-TO-FL-05-15",
       "navn": {
         "nob": "Naturvernområde i Vågå kommune"
       }
     },
     {
-      "kode": "VV-AO-05-16",
+      "kode": "VV-AO-TO-FL-05-16",
       "navn": {
         "nob": "Naturvernområde i Nord-Fron kommune"
       }
     },
     {
-      "kode": "VV-AO-05-17",
+      "kode": "VV-AO-TO-FL-05-17",
       "navn": {
         "nob": "Naturvernområde i Sel kommune"
       }
     },
     {
-      "kode": "VV-AO-05-19",
+      "kode": "VV-AO-TO-FL-05-19",
       "navn": {
         "nob": "Naturvernområde i Sør-Fron kommune"
       }
     },
     {
-      "kode": "VV-AO-05-20",
+      "kode": "VV-AO-TO-FL-05-20",
       "navn": {
         "nob": "Naturvernområde i Ringebu kommune"
       }
     },
     {
-      "kode": "VV-AO-05-21",
+      "kode": "VV-AO-TO-FL-05-21",
       "navn": {
         "nob": "Naturvernområde i Øyer kommune"
       }
     },
     {
-      "kode": "VV-AO-05-22",
+      "kode": "VV-AO-TO-FL-05-22",
       "navn": {
         "nob": "Naturvernområde i Gausdal kommune"
       }
     },
     {
-      "kode": "VV-AO-05-28",
+      "kode": "VV-AO-TO-FL-05-28",
       "navn": {
         "nob": "Naturvernområde i Østre Toten kommune"
       }
     },
     {
-      "kode": "VV-AO-05-29",
+      "kode": "VV-AO-TO-FL-05-29",
       "navn": {
         "nob": "Naturvernområde i Vestre Toten kommune"
       }
     },
     {
-      "kode": "VV-AO-05-32",
+      "kode": "VV-AO-TO-FL-05-32",
       "navn": {
         "nob": "Naturvernområde i Jevnaker kommune"
       }
     },
     {
-      "kode": "VV-AO-05-33",
+      "kode": "VV-AO-TO-FL-05-33",
       "navn": {
         "nob": "Naturvernområde i Lunner kommune"
       }
     },
     {
-      "kode": "VV-AO-05-34",
+      "kode": "VV-AO-TO-FL-05-34",
       "navn": {
         "nob": "Naturvernområde i Gran kommune"
       }
     },
     {
-      "kode": "VV-AO-05-36",
+      "kode": "VV-AO-TO-FL-05-36",
       "navn": {
         "nob": "Naturvernområde i Søndre Land kommune"
       }
     },
     {
-      "kode": "VV-AO-05-38",
+      "kode": "VV-AO-TO-FL-05-38",
       "navn": {
         "nob": "Naturvernområde i Nordre Land kommune"
       }
     },
     {
-      "kode": "VV-AO-05-40",
+      "kode": "VV-AO-TO-FL-05-40",
       "navn": {
         "nob": "Naturvernområde i Sør-Aurdal kommune"
       }
     },
     {
-      "kode": "VV-AO-05-41",
+      "kode": "VV-AO-TO-FL-05-41",
       "navn": {
         "nob": "Naturvernområde i Etnedal kommune"
       }
     },
     {
-      "kode": "VV-AO-05-42",
+      "kode": "VV-AO-TO-FL-05-42",
       "navn": {
         "nob": "Naturvernområde i Nord-Aurdal kommune"
       }
     },
     {
-      "kode": "VV-AO-05-43",
+      "kode": "VV-AO-TO-FL-05-43",
       "navn": {
         "nob": "Naturvernområde i Vestre Slidre kommune"
       }
     },
     {
-      "kode": "VV-AO-05-44",
+      "kode": "VV-AO-TO-FL-05-44",
       "navn": {
         "nob": "Naturvernområde i Øystre Slidre kommune"
       }
     },
     {
-      "kode": "VV-AO-05-45",
+      "kode": "VV-AO-TO-FL-05-45",
       "navn": {
         "nob": "Naturvernområde i Vang kommune"
       }
     },
     {
-      "kode": "VV-AO-06-02",
+      "kode": "VV-AO-TO-FL-06-02",
       "navn": {
         "nob": "Naturvernområde i Drammen kommune"
       }
     },
     {
-      "kode": "VV-AO-06-04",
+      "kode": "VV-AO-TO-FL-06-04",
       "navn": {
         "nob": "Naturvernområde i Kongsberg kommune"
       }
     },
     {
-      "kode": "VV-AO-06-05",
+      "kode": "VV-AO-TO-FL-06-05",
       "navn": {
         "nob": "Naturvernområde i Ringerike kommune"
       }
     },
     {
-      "kode": "VV-AO-06-12",
+      "kode": "VV-AO-TO-FL-06-12",
       "navn": {
         "nob": "Naturvernområde i Hole kommune"
       }
     },
     {
-      "kode": "VV-AO-06-15",
+      "kode": "VV-AO-TO-FL-06-15",
       "navn": {
         "nob": "Naturvernområde i Flå kommune"
       }
     },
     {
-      "kode": "VV-AO-06-16",
+      "kode": "VV-AO-TO-FL-06-16",
       "navn": {
         "nob": "Naturvernområde i Nes kommune"
       }
     },
     {
-      "kode": "VV-AO-06-17",
+      "kode": "VV-AO-TO-FL-06-17",
       "navn": {
         "nob": "Naturvernområde i Gol kommune"
       }
     },
     {
-      "kode": "VV-AO-06-18",
+      "kode": "VV-AO-TO-FL-06-18",
       "navn": {
         "nob": "Naturvernområde i Hemsedal kommune"
       }
     },
     {
-      "kode": "VV-AO-06-19",
+      "kode": "VV-AO-TO-FL-06-19",
       "navn": {
         "nob": "Naturvernområde i Ål kommune"
       }
     },
     {
-      "kode": "VV-AO-06-20",
+      "kode": "VV-AO-TO-FL-06-20",
       "navn": {
         "nob": "Naturvernområde i Hol kommune"
       }
     },
     {
-      "kode": "VV-AO-06-21",
+      "kode": "VV-AO-TO-FL-06-21",
       "navn": {
         "nob": "Naturvernområde i Sigdal kommune"
       }
     },
     {
-      "kode": "VV-AO-06-22",
+      "kode": "VV-AO-TO-FL-06-22",
       "navn": {
         "nob": "Naturvernområde i Krødsherad kommune"
       }
     },
     {
-      "kode": "VV-AO-06-23",
+      "kode": "VV-AO-TO-FL-06-23",
       "navn": {
         "nob": "Naturvernområde i Modum kommune"
       }
     },
     {
-      "kode": "VV-AO-06-24",
+      "kode": "VV-AO-TO-FL-06-24",
       "navn": {
         "nob": "Naturvernområde i Øvre Eiker kommune"
       }
     },
     {
-      "kode": "VV-AO-06-25",
+      "kode": "VV-AO-TO-FL-06-25",
       "navn": {
         "nob": "Naturvernområde i Nedre Eiker kommune"
       }
     },
     {
-      "kode": "VV-AO-06-26",
+      "kode": "VV-AO-TO-FL-06-26",
       "navn": {
         "nob": "Naturvernområde i Lier kommune"
       }
     },
     {
-      "kode": "VV-AO-06-27",
+      "kode": "VV-AO-TO-FL-06-27",
       "navn": {
         "nob": "Naturvernområde i Røyken kommune"
       }
     },
     {
-      "kode": "VV-AO-06-28",
+      "kode": "VV-AO-TO-FL-06-28",
       "navn": {
         "nob": "Naturvernområde i Hurum kommune"
       }
     },
     {
-      "kode": "VV-AO-06-31",
+      "kode": "VV-AO-TO-FL-06-31",
       "navn": {
         "nob": "Naturvernområde i Flesberg kommune"
       }
     },
     {
-      "kode": "VV-AO-06-32",
+      "kode": "VV-AO-TO-FL-06-32",
       "navn": {
         "nob": "Naturvernområde i Rollag kommune"
       }
     },
     {
-      "kode": "VV-AO-06-33",
+      "kode": "VV-AO-TO-FL-06-33",
       "navn": {
         "nob": "Naturvernområde i Nore og Uvdal kommune"
       }
     },
     {
-      "kode": "VV-AO-07-01",
+      "kode": "VV-AO-TO-FL-07-01",
       "navn": {
         "nob": "Naturvernområde i Horten kommune"
       }
     },
     {
-      "kode": "VV-AO-07-04",
+      "kode": "VV-AO-TO-FL-07-04",
       "navn": {
         "nob": "Naturvernområde i Tønsberg kommune"
       }
     },
     {
-      "kode": "VV-AO-07-10",
+      "kode": "VV-AO-TO-FL-07-10",
       "navn": {
         "nob": "Naturvernområde i Sandefjord kommune"
       }
     },
     {
-      "kode": "VV-AO-07-11",
+      "kode": "VV-AO-TO-FL-07-11",
       "navn": {
         "nob": "Naturvernområde i Svelvik kommune"
       }
     },
     {
-      "kode": "VV-AO-07-12",
+      "kode": "VV-AO-TO-FL-07-12",
       "navn": {
         "nob": "Naturvernområde i Larvik kommune"
       }
     },
     {
-      "kode": "VV-AO-07-13",
+      "kode": "VV-AO-TO-FL-07-13",
       "navn": {
         "nob": "Naturvernområde i Sande kommune"
       }
     },
     {
-      "kode": "VV-AO-07-15",
+      "kode": "VV-AO-TO-FL-07-15",
       "navn": {
         "nob": "Naturvernområde i Holmestrand kommune"
       }
     },
     {
-      "kode": "VV-AO-07-16",
+      "kode": "VV-AO-TO-FL-07-16",
       "navn": {
         "nob": "Naturvernområde i Re kommune"
       }
     },
     {
-      "kode": "VV-AO-07-29",
+      "kode": "VV-AO-TO-FL-07-29",
       "navn": {
         "nob": "Naturvernområde i Færder kommune"
       }
     },
     {
-      "kode": "VV-AO-08-05",
+      "kode": "VV-AO-TO-FL-08-05",
       "navn": {
         "nob": "Naturvernområde i Porsgrunn kommune"
       }
     },
     {
-      "kode": "VV-AO-08-06",
+      "kode": "VV-AO-TO-FL-08-06",
       "navn": {
         "nob": "Naturvernområde i Skien kommune"
       }
     },
     {
-      "kode": "VV-AO-08-07",
+      "kode": "VV-AO-TO-FL-08-07",
       "navn": {
         "nob": "Naturvernområde i Notodden kommune"
       }
     },
     {
-      "kode": "VV-AO-08-11",
+      "kode": "VV-AO-TO-FL-08-11",
       "navn": {
         "nob": "Naturvernområde i Siljan kommune"
       }
     },
     {
-      "kode": "VV-AO-08-14",
+      "kode": "VV-AO-TO-FL-08-14",
       "navn": {
         "nob": "Naturvernområde i Bamble kommune"
       }
     },
     {
-      "kode": "VV-AO-08-15",
+      "kode": "VV-AO-TO-FL-08-15",
       "navn": {
         "nob": "Naturvernområde i Kragerø kommune"
       }
     },
     {
-      "kode": "VV-AO-08-17",
+      "kode": "VV-AO-TO-FL-08-17",
       "navn": {
         "nob": "Naturvernområde i Drangedal kommune"
       }
     },
     {
-      "kode": "VV-AO-08-19",
+      "kode": "VV-AO-TO-FL-08-19",
       "navn": {
         "nob": "Naturvernområde i Nome kommune"
       }
     },
     {
-      "kode": "VV-AO-08-21",
+      "kode": "VV-AO-TO-FL-08-21",
       "navn": {
         "nob": "Naturvernområde i Bø kommune"
       }
     },
     {
-      "kode": "VV-AO-08-22",
+      "kode": "VV-AO-TO-FL-08-22",
       "navn": {
         "nob": "Naturvernområde i Sauherad kommune"
       }
     },
     {
-      "kode": "VV-AO-08-26",
+      "kode": "VV-AO-TO-FL-08-26",
       "navn": {
         "nob": "Naturvernområde i Tinn kommune"
       }
     },
     {
-      "kode": "VV-AO-08-27",
+      "kode": "VV-AO-TO-FL-08-27",
       "navn": {
         "nob": "Naturvernområde i Hjartdal kommune"
       }
     },
     {
-      "kode": "VV-AO-08-28",
+      "kode": "VV-AO-TO-FL-08-28",
       "navn": {
         "nob": "Naturvernområde i Seljord kommune"
       }
     },
     {
-      "kode": "VV-AO-08-29",
+      "kode": "VV-AO-TO-FL-08-29",
       "navn": {
         "nob": "Naturvernområde i Kviteseid kommune"
       }
     },
     {
-      "kode": "VV-AO-08-30",
+      "kode": "VV-AO-TO-FL-08-30",
       "navn": {
         "nob": "Naturvernområde i Nissedal kommune"
       }
     },
     {
-      "kode": "VV-AO-08-31",
+      "kode": "VV-AO-TO-FL-08-31",
       "navn": {
         "nob": "Naturvernområde i Fyresdal kommune"
       }
     },
     {
-      "kode": "VV-AO-08-33",
+      "kode": "VV-AO-TO-FL-08-33",
       "navn": {
         "nob": "Naturvernområde i Tokke kommune"
       }
     },
     {
-      "kode": "VV-AO-08-34",
+      "kode": "VV-AO-TO-FL-08-34",
       "navn": {
         "nob": "Naturvernområde i Vinje kommune"
       }
     },
     {
-      "kode": "VV-AO-09-01",
+      "kode": "VV-AO-TO-FL-09-01",
       "navn": {
         "nob": "Naturvernområde i Risør kommune"
       }
     },
     {
-      "kode": "VV-AO-09-04",
+      "kode": "VV-AO-TO-FL-09-04",
       "navn": {
         "nob": "Naturvernområde i Grimstad kommune"
       }
     },
     {
-      "kode": "VV-AO-09-06",
+      "kode": "VV-AO-TO-FL-09-06",
       "navn": {
         "nob": "Naturvernområde i Arendal kommune"
       }
     },
     {
-      "kode": "VV-AO-09-11",
+      "kode": "VV-AO-TO-FL-09-11",
       "navn": {
         "nob": "Naturvernområde i Gjerstad kommune"
       }
     },
     {
-      "kode": "VV-AO-09-12",
+      "kode": "VV-AO-TO-FL-09-12",
       "navn": {
         "nob": "Naturvernområde i Vegårshei kommune"
       }
     },
     {
-      "kode": "VV-AO-09-14",
+      "kode": "VV-AO-TO-FL-09-14",
       "navn": {
         "nob": "Naturvernområde i Tvedestrand kommune"
       }
     },
     {
-      "kode": "VV-AO-09-19",
+      "kode": "VV-AO-TO-FL-09-19",
       "navn": {
         "nob": "Naturvernområde i Froland kommune"
       }
     },
     {
-      "kode": "VV-AO-09-26",
+      "kode": "VV-AO-TO-FL-09-26",
       "navn": {
         "nob": "Naturvernområde i Lillesand kommune"
       }
     },
     {
-      "kode": "VV-AO-09-28",
+      "kode": "VV-AO-TO-FL-09-28",
       "navn": {
         "nob": "Naturvernområde i Birkenes kommune"
       }
     },
     {
-      "kode": "VV-AO-09-29",
+      "kode": "VV-AO-TO-FL-09-29",
       "navn": {
         "nob": "Naturvernområde i Åmli kommune"
       }
     },
     {
-      "kode": "VV-AO-09-35",
+      "kode": "VV-AO-TO-FL-09-35",
       "navn": {
         "nob": "Naturvernområde i Iveland kommune"
       }
     },
     {
-      "kode": "VV-AO-09-37",
+      "kode": "VV-AO-TO-FL-09-37",
       "navn": {
         "nob": "Naturvernområde i Evje og Hornnes kommune"
       }
     },
     {
-      "kode": "VV-AO-09-38",
+      "kode": "VV-AO-TO-FL-09-38",
       "navn": {
         "nob": "Naturvernområde i Bygland kommune"
       }
     },
     {
-      "kode": "VV-AO-09-40",
+      "kode": "VV-AO-TO-FL-09-40",
       "navn": {
         "nob": "Naturvernområde i Valle kommune"
       }
     },
     {
-      "kode": "VV-AO-09-41",
+      "kode": "VV-AO-TO-FL-09-41",
       "navn": {
         "nob": "Naturvernområde i Bykle kommune"
       }
     },
     {
-      "kode": "VV-AO-10-01",
+      "kode": "VV-AO-TO-FL-10-01",
       "navn": {
         "nob": "Naturvernområde i Kristiansand kommune"
       }
     },
     {
-      "kode": "VV-AO-10-02",
+      "kode": "VV-AO-TO-FL-10-02",
       "navn": {
         "nob": "Naturvernområde i Mandal kommune"
       }
     },
     {
-      "kode": "VV-AO-10-03",
+      "kode": "VV-AO-TO-FL-10-03",
       "navn": {
         "nob": "Naturvernområde i Farsund kommune"
       }
     },
     {
-      "kode": "VV-AO-10-04",
+      "kode": "VV-AO-TO-FL-10-04",
       "navn": {
         "nob": "Naturvernområde i Flekkefjord kommune"
       }
     },
     {
-      "kode": "VV-AO-10-14",
+      "kode": "VV-AO-TO-FL-10-14",
       "navn": {
         "nob": "Naturvernområde i Vennesla kommune"
       }
     },
     {
-      "kode": "VV-AO-10-17",
+      "kode": "VV-AO-TO-FL-10-17",
       "navn": {
         "nob": "Naturvernområde i Songdalen kommune"
       }
     },
     {
-      "kode": "VV-AO-10-18",
+      "kode": "VV-AO-TO-FL-10-18",
       "navn": {
         "nob": "Naturvernområde i Søgne kommune"
       }
     },
     {
-      "kode": "VV-AO-10-21",
+      "kode": "VV-AO-TO-FL-10-21",
       "navn": {
         "nob": "Naturvernområde i Marnardal kommune"
       }
     },
     {
-      "kode": "VV-AO-10-26",
+      "kode": "VV-AO-TO-FL-10-26",
       "navn": {
         "nob": "Naturvernområde i Åseral kommune"
       }
     },
     {
-      "kode": "VV-AO-10-27",
+      "kode": "VV-AO-TO-FL-10-27",
       "navn": {
         "nob": "Naturvernområde i Audnedal kommune"
       }
     },
     {
-      "kode": "VV-AO-10-29",
+      "kode": "VV-AO-TO-FL-10-29",
       "navn": {
         "nob": "Naturvernområde i Lindesnes kommune"
       }
     },
     {
-      "kode": "VV-AO-10-32",
+      "kode": "VV-AO-TO-FL-10-32",
       "navn": {
         "nob": "Naturvernområde i Lyngdal kommune"
       }
     },
     {
-      "kode": "VV-AO-10-34",
+      "kode": "VV-AO-TO-FL-10-34",
       "navn": {
         "nob": "Naturvernområde i Hægebostad kommune"
       }
     },
     {
-      "kode": "VV-AO-10-37",
+      "kode": "VV-AO-TO-FL-10-37",
       "navn": {
         "nob": "Naturvernområde i Kvinesdal kommune"
       }
     },
     {
-      "kode": "VV-AO-10-46",
+      "kode": "VV-AO-TO-FL-10-46",
       "navn": {
         "nob": "Naturvernområde i Sirdal kommune"
       }
     },
     {
-      "kode": "VV-AO-11-01",
+      "kode": "VV-AO-TO-FL-11-01",
       "navn": {
         "nob": "Naturvernområde i Eigersund kommune"
       }
     },
     {
-      "kode": "VV-AO-11-02",
+      "kode": "VV-AO-TO-FL-11-02",
       "navn": {
         "nob": "Naturvernområde i Sandnes kommune"
       }
     },
     {
-      "kode": "VV-AO-11-03",
+      "kode": "VV-AO-TO-FL-11-03",
       "navn": {
         "nob": "Naturvernområde i Stavanger kommune"
       }
     },
     {
-      "kode": "VV-AO-11-06",
+      "kode": "VV-AO-TO-FL-11-06",
       "navn": {
         "nob": "Naturvernområde i Haugesund kommune"
       }
     },
     {
-      "kode": "VV-AO-11-11",
+      "kode": "VV-AO-TO-FL-11-11",
       "navn": {
         "nob": "Naturvernområde i Sokndal kommune"
       }
     },
     {
-      "kode": "VV-AO-11-12",
+      "kode": "VV-AO-TO-FL-11-12",
       "navn": {
         "nob": "Naturvernområde i Lund kommune"
       }
     },
     {
-      "kode": "VV-AO-11-14",
+      "kode": "VV-AO-TO-FL-11-14",
       "navn": {
         "nob": "Naturvernområde i Bjerkreim kommune"
       }
     },
     {
-      "kode": "VV-AO-11-19",
+      "kode": "VV-AO-TO-FL-11-19",
       "navn": {
         "nob": "Naturvernområde i Hå kommune"
       }
     },
     {
-      "kode": "VV-AO-11-20",
+      "kode": "VV-AO-TO-FL-11-20",
       "navn": {
         "nob": "Naturvernområde i Klepp kommune"
       }
     },
     {
-      "kode": "VV-AO-11-21",
+      "kode": "VV-AO-TO-FL-11-21",
       "navn": {
         "nob": "Naturvernområde i Time kommune"
       }
     },
     {
-      "kode": "VV-AO-11-22",
+      "kode": "VV-AO-TO-FL-11-22",
       "navn": {
         "nob": "Naturvernområde i Gjesdal kommune"
       }
     },
     {
-      "kode": "VV-AO-11-24",
+      "kode": "VV-AO-TO-FL-11-24",
       "navn": {
         "nob": "Naturvernområde i Sola kommune"
       }
     },
     {
-      "kode": "VV-AO-11-27",
+      "kode": "VV-AO-TO-FL-11-27",
       "navn": {
         "nob": "Naturvernområde i Randaberg kommune"
       }
     },
     {
-      "kode": "VV-AO-11-29",
+      "kode": "VV-AO-TO-FL-11-29",
       "navn": {
         "nob": "Naturvernområde i Forsand kommune"
       }
     },
     {
-      "kode": "VV-AO-11-30",
+      "kode": "VV-AO-TO-FL-11-30",
       "navn": {
         "nob": "Naturvernområde i Strand kommune"
       }
     },
     {
-      "kode": "VV-AO-11-33",
+      "kode": "VV-AO-TO-FL-11-33",
       "navn": {
         "nob": "Naturvernområde i Hjelmeland kommune"
       }
     },
     {
-      "kode": "VV-AO-11-34",
+      "kode": "VV-AO-TO-FL-11-34",
       "navn": {
         "nob": "Naturvernområde i Suldal kommune"
       }
     },
     {
-      "kode": "VV-AO-11-35",
+      "kode": "VV-AO-TO-FL-11-35",
       "navn": {
         "nob": "Naturvernområde i Sauda kommune"
       }
     },
     {
-      "kode": "VV-AO-11-41",
+      "kode": "VV-AO-TO-FL-11-41",
       "navn": {
         "nob": "Naturvernområde i Finnøy kommune"
       }
     },
     {
-      "kode": "VV-AO-11-42",
+      "kode": "VV-AO-TO-FL-11-42",
       "navn": {
         "nob": "Naturvernområde i Rennesøy kommune"
       }
     },
     {
-      "kode": "VV-AO-11-44",
+      "kode": "VV-AO-TO-FL-11-44",
       "navn": {
         "nob": "Naturvernområde i Kvitsøy kommune"
       }
     },
     {
-      "kode": "VV-AO-11-45",
+      "kode": "VV-AO-TO-FL-11-45",
       "navn": {
         "nob": "Naturvernområde i Bokn kommune"
       }
     },
     {
-      "kode": "VV-AO-11-46",
+      "kode": "VV-AO-TO-FL-11-46",
       "navn": {
         "nob": "Naturvernområde i Tysvær kommune"
       }
     },
     {
-      "kode": "VV-AO-11-49",
+      "kode": "VV-AO-TO-FL-11-49",
       "navn": {
         "nob": "Naturvernområde i Karmøy kommune"
       }
     },
     {
-      "kode": "VV-AO-11-51",
+      "kode": "VV-AO-TO-FL-11-51",
       "navn": {
         "nob": "Naturvernområde i Utsira kommune"
       }
     },
     {
-      "kode": "VV-AO-11-60",
+      "kode": "VV-AO-TO-FL-11-60",
       "navn": {
         "nob": "Naturvernområde i Vindafjord kommune"
       }
     },
     {
-      "kode": "VV-AO-12-01",
+      "kode": "VV-AO-TO-FL-12-01",
       "navn": {
         "nob": "Naturvernområde i Bergen kommune"
       }
     },
     {
-      "kode": "VV-AO-12-11",
+      "kode": "VV-AO-TO-FL-12-11",
       "navn": {
         "nob": "Naturvernområde i Etne kommune"
       }
     },
     {
-      "kode": "VV-AO-12-16",
+      "kode": "VV-AO-TO-FL-12-16",
       "navn": {
         "nob": "Naturvernområde i Sveio kommune"
       }
     },
     {
-      "kode": "VV-AO-12-19",
+      "kode": "VV-AO-TO-FL-12-19",
       "navn": {
         "nob": "Naturvernområde i Bømlo kommune"
       }
     },
     {
-      "kode": "VV-AO-12-21",
+      "kode": "VV-AO-TO-FL-12-21",
       "navn": {
         "nob": "Naturvernområde i Stord kommune"
       }
     },
     {
-      "kode": "VV-AO-12-22",
+      "kode": "VV-AO-TO-FL-12-22",
       "navn": {
         "nob": "Naturvernområde i Fitjar kommune"
       }
     },
     {
-      "kode": "VV-AO-12-23",
+      "kode": "VV-AO-TO-FL-12-23",
       "navn": {
         "nob": "Naturvernområde i Tysnes kommune"
       }
     },
     {
-      "kode": "VV-AO-12-24",
+      "kode": "VV-AO-TO-FL-12-24",
       "navn": {
         "nob": "Naturvernområde i Kvinnherad kommune"
       }
     },
     {
-      "kode": "VV-AO-12-27",
+      "kode": "VV-AO-TO-FL-12-27",
       "navn": {
         "nob": "Naturvernområde i Jondal kommune"
       }
     },
     {
-      "kode": "VV-AO-12-28",
+      "kode": "VV-AO-TO-FL-12-28",
       "navn": {
         "nob": "Naturvernområde i Odda kommune"
       }
     },
     {
-      "kode": "VV-AO-12-31",
+      "kode": "VV-AO-TO-FL-12-31",
       "navn": {
         "nob": "Naturvernområde i Ullensvang kommune"
       }
     },
     {
-      "kode": "VV-AO-12-32",
+      "kode": "VV-AO-TO-FL-12-32",
       "navn": {
         "nob": "Naturvernområde i Eidfjord kommune"
       }
     },
     {
-      "kode": "VV-AO-12-33",
+      "kode": "VV-AO-TO-FL-12-33",
       "navn": {
         "nob": "Naturvernområde i Ulvik kommune"
       }
     },
     {
-      "kode": "VV-AO-12-34",
+      "kode": "VV-AO-TO-FL-12-34",
       "navn": {
         "nob": "Naturvernområde i Granvin kommune"
       }
     },
     {
-      "kode": "VV-AO-12-35",
+      "kode": "VV-AO-TO-FL-12-35",
       "navn": {
         "nob": "Naturvernområde i Voss kommune"
       }
     },
     {
-      "kode": "VV-AO-12-38",
+      "kode": "VV-AO-TO-FL-12-38",
       "navn": {
         "nob": "Naturvernområde i Kvam kommune"
       }
     },
     {
-      "kode": "VV-AO-12-41",
+      "kode": "VV-AO-TO-FL-12-41",
       "navn": {
         "nob": "Naturvernområde i Fusa kommune"
       }
     },
     {
-      "kode": "VV-AO-12-42",
+      "kode": "VV-AO-TO-FL-12-42",
       "navn": {
         "nob": "Naturvernområde i Samnanger kommune"
       }
     },
     {
-      "kode": "VV-AO-12-43",
+      "kode": "VV-AO-TO-FL-12-43",
       "navn": {
         "nob": "Naturvernområde i Os kommune"
       }
     },
     {
-      "kode": "VV-AO-12-44",
+      "kode": "VV-AO-TO-FL-12-44",
       "navn": {
         "nob": "Naturvernområde i Austevoll kommune"
       }
     },
     {
-      "kode": "VV-AO-12-45",
+      "kode": "VV-AO-TO-FL-12-45",
       "navn": {
         "nob": "Naturvernområde i Sund kommune"
       }
     },
     {
-      "kode": "VV-AO-12-46",
+      "kode": "VV-AO-TO-FL-12-46",
       "navn": {
         "nob": "Naturvernområde i Fjell kommune"
       }
     },
     {
-      "kode": "VV-AO-12-47",
+      "kode": "VV-AO-TO-FL-12-47",
       "navn": {
         "nob": "Naturvernområde i Askøy kommune"
       }
     },
     {
-      "kode": "VV-AO-12-51",
+      "kode": "VV-AO-TO-FL-12-51",
       "navn": {
         "nob": "Naturvernområde i Vaksdal kommune"
       }
     },
     {
-      "kode": "VV-AO-12-52",
+      "kode": "VV-AO-TO-FL-12-52",
       "navn": {
         "nob": "Naturvernområde i Modalen kommune"
       }
     },
     {
-      "kode": "VV-AO-12-53",
+      "kode": "VV-AO-TO-FL-12-53",
       "navn": {
         "nob": "Naturvernområde i Osterøy kommune"
       }
     },
     {
-      "kode": "VV-AO-12-56",
+      "kode": "VV-AO-TO-FL-12-56",
       "navn": {
         "nob": "Naturvernområde i Meland kommune"
       }
     },
     {
-      "kode": "VV-AO-12-59",
+      "kode": "VV-AO-TO-FL-12-59",
       "navn": {
         "nob": "Naturvernområde i Øygarden kommune"
       }
     },
     {
-      "kode": "VV-AO-12-60",
+      "kode": "VV-AO-TO-FL-12-60",
       "navn": {
         "nob": "Naturvernområde i Radøy kommune"
       }
     },
     {
-      "kode": "VV-AO-12-63",
+      "kode": "VV-AO-TO-FL-12-63",
       "navn": {
         "nob": "Naturvernområde i Lindås kommune"
       }
     },
     {
-      "kode": "VV-AO-12-64",
+      "kode": "VV-AO-TO-FL-12-64",
       "navn": {
         "nob": "Naturvernområde i Austrheim kommune"
       }
     },
     {
-      "kode": "VV-AO-12-65",
+      "kode": "VV-AO-TO-FL-12-65",
       "navn": {
         "nob": "Naturvernområde i Fedje kommune"
       }
     },
     {
-      "kode": "VV-AO-12-66",
+      "kode": "VV-AO-TO-FL-12-66",
       "navn": {
         "nob": "Naturvernområde i Masfjorden kommune"
       }
     },
     {
-      "kode": "VV-AO-14-01",
+      "kode": "VV-AO-TO-FL-14-01",
       "navn": {
         "nob": "Naturvernområde i Flora kommune"
       }
     },
     {
-      "kode": "VV-AO-14-11",
+      "kode": "VV-AO-TO-FL-14-11",
       "navn": {
         "nob": "Naturvernområde i Gulen kommune"
       }
     },
     {
-      "kode": "VV-AO-14-12",
+      "kode": "VV-AO-TO-FL-14-12",
       "navn": {
         "nob": "Naturvernområde i Solund kommune"
       }
     },
     {
-      "kode": "VV-AO-14-13",
+      "kode": "VV-AO-TO-FL-14-13",
       "navn": {
         "nob": "Naturvernområde i Hyllestad kommune"
       }
     },
     {
-      "kode": "VV-AO-14-16",
+      "kode": "VV-AO-TO-FL-14-16",
       "navn": {
         "nob": "Naturvernområde i Høyanger kommune"
       }
     },
     {
-      "kode": "VV-AO-14-17",
+      "kode": "VV-AO-TO-FL-14-17",
       "navn": {
         "nob": "Naturvernområde i Vik kommune"
       }
     },
     {
-      "kode": "VV-AO-14-18",
+      "kode": "VV-AO-TO-FL-14-18",
       "navn": {
         "nob": "Naturvernområde i Balestrand kommune"
       }
     },
     {
-      "kode": "VV-AO-14-19",
+      "kode": "VV-AO-TO-FL-14-19",
       "navn": {
         "nob": "Naturvernområde i Leikanger kommune"
       }
     },
     {
-      "kode": "VV-AO-14-20",
+      "kode": "VV-AO-TO-FL-14-20",
       "navn": {
         "nob": "Naturvernområde i Sogndal kommune"
       }
     },
     {
-      "kode": "VV-AO-14-21",
+      "kode": "VV-AO-TO-FL-14-21",
       "navn": {
         "nob": "Naturvernområde i Aurland kommune"
       }
     },
     {
-      "kode": "VV-AO-14-22",
+      "kode": "VV-AO-TO-FL-14-22",
       "navn": {
         "nob": "Naturvernområde i Lærdal kommune"
       }
     },
     {
-      "kode": "VV-AO-14-24",
+      "kode": "VV-AO-TO-FL-14-24",
       "navn": {
         "nob": "Naturvernområde i Årdal kommune"
       }
     },
     {
-      "kode": "VV-AO-14-26",
+      "kode": "VV-AO-TO-FL-14-26",
       "navn": {
         "nob": "Naturvernområde i Luster kommune"
       }
     },
     {
-      "kode": "VV-AO-14-28",
+      "kode": "VV-AO-TO-FL-14-28",
       "navn": {
         "nob": "Naturvernområde i Askvoll kommune"
       }
     },
     {
-      "kode": "VV-AO-14-29",
+      "kode": "VV-AO-TO-FL-14-29",
       "navn": {
         "nob": "Naturvernområde i Fjaler kommune"
       }
     },
     {
-      "kode": "VV-AO-14-30",
+      "kode": "VV-AO-TO-FL-14-30",
       "navn": {
         "nob": "Naturvernområde i Gaular kommune"
       }
     },
     {
-      "kode": "VV-AO-14-31",
+      "kode": "VV-AO-TO-FL-14-31",
       "navn": {
         "nob": "Naturvernområde i Jølster kommune"
       }
     },
     {
-      "kode": "VV-AO-14-32",
+      "kode": "VV-AO-TO-FL-14-32",
       "navn": {
         "nob": "Naturvernområde i Førde kommune"
       }
     },
     {
-      "kode": "VV-AO-14-33",
+      "kode": "VV-AO-TO-FL-14-33",
       "navn": {
         "nob": "Naturvernområde i Naustdal kommune"
       }
     },
     {
-      "kode": "VV-AO-14-38",
+      "kode": "VV-AO-TO-FL-14-38",
       "navn": {
         "nob": "Naturvernområde i Bremanger kommune"
       }
     },
     {
-      "kode": "VV-AO-14-39",
+      "kode": "VV-AO-TO-FL-14-39",
       "navn": {
         "nob": "Naturvernområde i Vågsøy kommune"
       }
     },
     {
-      "kode": "VV-AO-14-41",
+      "kode": "VV-AO-TO-FL-14-41",
       "navn": {
         "nob": "Naturvernområde i Selje kommune"
       }
     },
     {
-      "kode": "VV-AO-14-43",
+      "kode": "VV-AO-TO-FL-14-43",
       "navn": {
         "nob": "Naturvernområde i Eid kommune"
       }
     },
     {
-      "kode": "VV-AO-14-44",
+      "kode": "VV-AO-TO-FL-14-44",
       "navn": {
         "nob": "Naturvernområde i Hornindal kommune"
       }
     },
     {
-      "kode": "VV-AO-14-45",
+      "kode": "VV-AO-TO-FL-14-45",
       "navn": {
         "nob": "Naturvernområde i Gloppen kommune"
       }
     },
     {
-      "kode": "VV-AO-14-49",
+      "kode": "VV-AO-TO-FL-14-49",
       "navn": {
         "nob": "Naturvernområde i Stryn kommune"
       }
     },
     {
-      "kode": "VV-AO-15-02",
+      "kode": "VV-AO-TO-FL-15-02",
       "navn": {
         "nob": "Naturvernområde i Molde kommune"
       }
     },
     {
-      "kode": "VV-AO-15-04",
+      "kode": "VV-AO-TO-FL-15-04",
       "navn": {
         "nob": "Naturvernområde i Ålesund kommune"
       }
     },
     {
-      "kode": "VV-AO-15-05",
+      "kode": "VV-AO-TO-FL-15-05",
       "navn": {
         "nob": "Naturvernområde i Kristiansund kommune"
       }
     },
     {
-      "kode": "VV-AO-15-11",
+      "kode": "VV-AO-TO-FL-15-11",
       "navn": {
         "nob": "Naturvernområde i Vanylven kommune"
       }
     },
     {
-      "kode": "VV-AO-15-14",
+      "kode": "VV-AO-TO-FL-15-14",
       "navn": {
         "nob": "Naturvernområde i Sande kommune"
       }
     },
     {
-      "kode": "VV-AO-15-15",
+      "kode": "VV-AO-TO-FL-15-15",
       "navn": {
         "nob": "Naturvernområde i Herøy kommune"
       }
     },
     {
-      "kode": "VV-AO-15-16",
+      "kode": "VV-AO-TO-FL-15-16",
       "navn": {
         "nob": "Naturvernområde i Ulstein kommune"
       }
     },
     {
-      "kode": "VV-AO-15-17",
+      "kode": "VV-AO-TO-FL-15-17",
       "navn": {
         "nob": "Naturvernområde i Hareid kommune"
       }
     },
     {
-      "kode": "VV-AO-15-19",
+      "kode": "VV-AO-TO-FL-15-19",
       "navn": {
         "nob": "Naturvernområde i Volda kommune"
       }
     },
     {
-      "kode": "VV-AO-15-20",
+      "kode": "VV-AO-TO-FL-15-20",
       "navn": {
         "nob": "Naturvernområde i Ørsta kommune"
       }
     },
     {
-      "kode": "VV-AO-15-23",
+      "kode": "VV-AO-TO-FL-15-23",
       "navn": {
         "nob": "Naturvernområde i Ørskog kommune"
       }
     },
     {
-      "kode": "VV-AO-15-24",
+      "kode": "VV-AO-TO-FL-15-24",
       "navn": {
         "nob": "Naturvernområde i Norddal kommune"
       }
     },
     {
-      "kode": "VV-AO-15-25",
+      "kode": "VV-AO-TO-FL-15-25",
       "navn": {
         "nob": "Naturvernområde i Stranda kommune"
       }
     },
     {
-      "kode": "VV-AO-15-26",
+      "kode": "VV-AO-TO-FL-15-26",
       "navn": {
         "nob": "Naturvernområde i Stordal kommune"
       }
     },
     {
-      "kode": "VV-AO-15-28",
+      "kode": "VV-AO-TO-FL-15-28",
       "navn": {
         "nob": "Naturvernområde i Sykkylven kommune"
       }
     },
     {
-      "kode": "VV-AO-15-29",
+      "kode": "VV-AO-TO-FL-15-29",
       "navn": {
         "nob": "Naturvernområde i Skodje kommune"
       }
     },
     {
-      "kode": "VV-AO-15-31",
+      "kode": "VV-AO-TO-FL-15-31",
       "navn": {
         "nob": "Naturvernområde i Sula kommune"
       }
     },
     {
-      "kode": "VV-AO-15-32",
+      "kode": "VV-AO-TO-FL-15-32",
       "navn": {
         "nob": "Naturvernområde i Giske kommune"
       }
     },
     {
-      "kode": "VV-AO-15-34",
+      "kode": "VV-AO-TO-FL-15-34",
       "navn": {
         "nob": "Naturvernområde i Haram kommune"
       }
     },
     {
-      "kode": "VV-AO-15-35",
+      "kode": "VV-AO-TO-FL-15-35",
       "navn": {
         "nob": "Naturvernområde i Vestnes kommune"
       }
     },
     {
-      "kode": "VV-AO-15-39",
+      "kode": "VV-AO-TO-FL-15-39",
       "navn": {
         "nob": "Naturvernområde i Rauma kommune"
       }
     },
     {
-      "kode": "VV-AO-15-43",
+      "kode": "VV-AO-TO-FL-15-43",
       "navn": {
         "nob": "Naturvernområde i Nesset kommune"
       }
     },
     {
-      "kode": "VV-AO-15-45",
+      "kode": "VV-AO-TO-FL-15-45",
       "navn": {
         "nob": "Naturvernområde i Midsund kommune"
       }
     },
     {
-      "kode": "VV-AO-15-46",
+      "kode": "VV-AO-TO-FL-15-46",
       "navn": {
         "nob": "Naturvernområde i Sandøy kommune"
       }
     },
     {
-      "kode": "VV-AO-15-47",
+      "kode": "VV-AO-TO-FL-15-47",
       "navn": {
         "nob": "Naturvernområde i Aukra kommune"
       }
     },
     {
-      "kode": "VV-AO-15-48",
+      "kode": "VV-AO-TO-FL-15-48",
       "navn": {
         "nob": "Naturvernområde i Fræna kommune"
       }
     },
     {
-      "kode": "VV-AO-15-51",
+      "kode": "VV-AO-TO-FL-15-51",
       "navn": {
         "nob": "Naturvernområde i Eide kommune"
       }
     },
     {
-      "kode": "VV-AO-15-54",
+      "kode": "VV-AO-TO-FL-15-54",
       "navn": {
         "nob": "Naturvernområde i Averøy kommune"
       }
     },
     {
-      "kode": "VV-AO-15-57",
+      "kode": "VV-AO-TO-FL-15-57",
       "navn": {
         "nob": "Naturvernområde i Gjemnes kommune"
       }
     },
     {
-      "kode": "VV-AO-15-60",
+      "kode": "VV-AO-TO-FL-15-60",
       "navn": {
         "nob": "Naturvernområde i Tingvoll kommune"
       }
     },
     {
-      "kode": "VV-AO-15-63",
+      "kode": "VV-AO-TO-FL-15-63",
       "navn": {
         "nob": "Naturvernområde i Sunndal kommune"
       }
     },
     {
-      "kode": "VV-AO-15-66",
+      "kode": "VV-AO-TO-FL-15-66",
       "navn": {
         "nob": "Naturvernområde i Surnadal kommune"
       }
     },
     {
-      "kode": "VV-AO-15-71",
+      "kode": "VV-AO-TO-FL-15-71",
       "navn": {
         "nob": "Naturvernområde i Halsa kommune"
       }
     },
     {
-      "kode": "VV-AO-15-73",
+      "kode": "VV-AO-TO-FL-15-73",
       "navn": {
         "nob": "Naturvernområde i Smøla kommune"
       }
     },
     {
-      "kode": "VV-AO-15-76",
+      "kode": "VV-AO-TO-FL-15-76",
       "navn": {
         "nob": "Naturvernområde i Aure kommune"
       }
     },
     {
-      "kode": "VV-AO-18-04",
+      "kode": "VV-AO-TO-FL-18-04",
       "navn": {
         "nob": "Naturvernområde i Bodø kommune"
       }
     },
     {
-      "kode": "VV-AO-18-05",
+      "kode": "VV-AO-TO-FL-18-05",
       "navn": {
         "nob": "Naturvernområde i Narvik kommune"
       }
     },
     {
-      "kode": "VV-AO-18-11",
+      "kode": "VV-AO-TO-FL-18-11",
       "navn": {
         "nob": "Naturvernområde i Bindal kommune"
       }
     },
     {
-      "kode": "VV-AO-18-12",
+      "kode": "VV-AO-TO-FL-18-12",
       "navn": {
         "nob": "Naturvernområde i Sømna kommune"
       }
     },
     {
-      "kode": "VV-AO-18-13",
+      "kode": "VV-AO-TO-FL-18-13",
       "navn": {
         "nob": "Naturvernområde i Brønnøy kommune"
       }
     },
     {
-      "kode": "VV-AO-18-15",
+      "kode": "VV-AO-TO-FL-18-15",
       "navn": {
         "nob": "Naturvernområde i Vega kommune"
       }
     },
     {
-      "kode": "VV-AO-18-16",
+      "kode": "VV-AO-TO-FL-18-16",
       "navn": {
         "nob": "Naturvernområde i Vevelstad kommune"
       }
     },
     {
-      "kode": "VV-AO-18-18",
+      "kode": "VV-AO-TO-FL-18-18",
       "navn": {
         "nob": "Naturvernområde i Herøy kommune"
       }
     },
     {
-      "kode": "VV-AO-18-20",
+      "kode": "VV-AO-TO-FL-18-20",
       "navn": {
         "nob": "Naturvernområde i Alstahaug kommune"
       }
     },
     {
-      "kode": "VV-AO-18-22",
+      "kode": "VV-AO-TO-FL-18-22",
       "navn": {
         "nob": "Naturvernområde i Leirfjord kommune"
       }
     },
     {
-      "kode": "VV-AO-18-24",
+      "kode": "VV-AO-TO-FL-18-24",
       "navn": {
         "nob": "Naturvernområde i Vefsn kommune"
       }
     },
     {
-      "kode": "VV-AO-18-25",
+      "kode": "VV-AO-TO-FL-18-25",
       "navn": {
         "nob": "Naturvernområde i Grane kommune"
       }
     },
     {
-      "kode": "VV-AO-18-26",
+      "kode": "VV-AO-TO-FL-18-26",
       "navn": {
         "nob": "Naturvernområde i Hattfjelldal kommune"
       }
     },
     {
-      "kode": "VV-AO-18-27",
+      "kode": "VV-AO-TO-FL-18-27",
       "navn": {
         "nob": "Naturvernområde i Dønna kommune"
       }
     },
     {
-      "kode": "VV-AO-18-28",
+      "kode": "VV-AO-TO-FL-18-28",
       "navn": {
         "nob": "Naturvernområde i Nesna kommune"
       }
     },
     {
-      "kode": "VV-AO-18-32",
+      "kode": "VV-AO-TO-FL-18-32",
       "navn": {
         "nob": "Naturvernområde i Hemnes kommune"
       }
     },
     {
-      "kode": "VV-AO-18-33",
+      "kode": "VV-AO-TO-FL-18-33",
       "navn": {
         "nob": "Naturvernområde i Rana kommune"
       }
     },
     {
-      "kode": "VV-AO-18-34",
+      "kode": "VV-AO-TO-FL-18-34",
       "navn": {
         "nob": "Naturvernområde i Lurøy kommune"
       }
     },
     {
-      "kode": "VV-AO-18-35",
+      "kode": "VV-AO-TO-FL-18-35",
       "navn": {
         "nob": "Naturvernområde i Træna kommune"
       }
     },
     {
-      "kode": "VV-AO-18-36",
+      "kode": "VV-AO-TO-FL-18-36",
       "navn": {
         "nob": "Naturvernområde i Rødøy kommune"
       }
     },
     {
-      "kode": "VV-AO-18-37",
+      "kode": "VV-AO-TO-FL-18-37",
       "navn": {
         "nob": "Naturvernområde i Meløy kommune"
       }
     },
     {
-      "kode": "VV-AO-18-38",
+      "kode": "VV-AO-TO-FL-18-38",
       "navn": {
         "nob": "Naturvernområde i Gildeskål kommune"
       }
     },
     {
-      "kode": "VV-AO-18-39",
+      "kode": "VV-AO-TO-FL-18-39",
       "navn": {
         "nob": "Naturvernområde i Beiarn kommune"
       }
     },
     {
-      "kode": "VV-AO-18-40",
+      "kode": "VV-AO-TO-FL-18-40",
       "navn": {
         "nob": "Naturvernområde i Saltdal kommune"
       }
     },
     {
-      "kode": "VV-AO-18-41",
+      "kode": "VV-AO-TO-FL-18-41",
       "navn": {
         "nob": "Naturvernområde i Fauske kommune"
       }
     },
     {
-      "kode": "VV-AO-18-45",
+      "kode": "VV-AO-TO-FL-18-45",
       "navn": {
         "nob": "Naturvernområde i Sørfold kommune"
       }
     },
     {
-      "kode": "VV-AO-18-48",
+      "kode": "VV-AO-TO-FL-18-48",
       "navn": {
         "nob": "Naturvernområde i Steigen kommune"
       }
     },
     {
-      "kode": "VV-AO-18-49",
+      "kode": "VV-AO-TO-FL-18-49",
       "navn": {
         "nob": "Naturvernområde i Hamarøy kommune"
       }
     },
     {
-      "kode": "VV-AO-18-50",
+      "kode": "VV-AO-TO-FL-18-50",
       "navn": {
         "nob": "Naturvernområde i Tysfjord kommune"
       }
     },
     {
-      "kode": "VV-AO-18-51",
+      "kode": "VV-AO-TO-FL-18-51",
       "navn": {
         "nob": "Naturvernområde i Lødingen kommune"
       }
     },
     {
-      "kode": "VV-AO-18-52",
+      "kode": "VV-AO-TO-FL-18-52",
       "navn": {
         "nob": "Naturvernområde i Tjeldsund kommune"
       }
     },
     {
-      "kode": "VV-AO-18-53",
+      "kode": "VV-AO-TO-FL-18-53",
       "navn": {
         "nob": "Naturvernområde i Evenes kommune"
       }
     },
     {
-      "kode": "VV-AO-18-54",
+      "kode": "VV-AO-TO-FL-18-54",
       "navn": {
         "nob": "Naturvernområde i Ballangen kommune"
       }
     },
     {
-      "kode": "VV-AO-18-56",
+      "kode": "VV-AO-TO-FL-18-56",
       "navn": {
         "nob": "Naturvernområde i Røst kommune"
       }
     },
     {
-      "kode": "VV-AO-18-57",
+      "kode": "VV-AO-TO-FL-18-57",
       "navn": {
         "nob": "Naturvernområde i Værøy kommune"
       }
     },
     {
-      "kode": "VV-AO-18-59",
+      "kode": "VV-AO-TO-FL-18-59",
       "navn": {
         "nob": "Naturvernområde i Flakstad kommune"
       }
     },
     {
-      "kode": "VV-AO-18-60",
+      "kode": "VV-AO-TO-FL-18-60",
       "navn": {
         "nob": "Naturvernområde i Vestvågøy kommune"
       }
     },
     {
-      "kode": "VV-AO-18-65",
+      "kode": "VV-AO-TO-FL-18-65",
       "navn": {
         "nob": "Naturvernområde i Vågan kommune"
       }
     },
     {
-      "kode": "VV-AO-18-66",
+      "kode": "VV-AO-TO-FL-18-66",
       "navn": {
         "nob": "Naturvernområde i Hadsel kommune"
       }
     },
     {
-      "kode": "VV-AO-18-67",
+      "kode": "VV-AO-TO-FL-18-67",
       "navn": {
         "nob": "Naturvernområde i Bø kommune"
       }
     },
     {
-      "kode": "VV-AO-18-68",
+      "kode": "VV-AO-TO-FL-18-68",
       "navn": {
         "nob": "Naturvernområde i Øksnes kommune"
       }
     },
     {
-      "kode": "VV-AO-18-70",
+      "kode": "VV-AO-TO-FL-18-70",
       "navn": {
         "nob": "Naturvernområde i Sortland kommune"
       }
     },
     {
-      "kode": "VV-AO-18-71",
+      "kode": "VV-AO-TO-FL-18-71",
       "navn": {
         "nob": "Naturvernområde i Andøy kommune"
       }
     },
     {
-      "kode": "VV-AO-18-74",
+      "kode": "VV-AO-TO-FL-18-74",
       "navn": {
         "nob": "Naturvernområde i Moskenes kommune"
       }
     },
     {
-      "kode": "VV-AO-19-02",
+      "kode": "VV-AO-TO-FL-19-02",
       "navn": {
         "nob": "Naturvernområde i Tromsø kommune"
       }
     },
     {
-      "kode": "VV-AO-19-03",
+      "kode": "VV-AO-TO-FL-19-03",
       "navn": {
         "nob": "Naturvernområde i Harstad kommune"
       }
     },
     {
-      "kode": "VV-AO-19-11",
+      "kode": "VV-AO-TO-FL-19-11",
       "navn": {
         "nob": "Naturvernområde i Kvæfjord kommune"
       }
     },
     {
-      "kode": "VV-AO-19-13",
+      "kode": "VV-AO-TO-FL-19-13",
       "navn": {
         "nob": "Naturvernområde i Skånland kommune"
       }
     },
     {
-      "kode": "VV-AO-19-17",
+      "kode": "VV-AO-TO-FL-19-17",
       "navn": {
         "nob": "Naturvernområde i Ibestad kommune"
       }
     },
     {
-      "kode": "VV-AO-19-19",
+      "kode": "VV-AO-TO-FL-19-19",
       "navn": {
         "nob": "Naturvernområde i Gratangen kommune"
       }
     },
     {
-      "kode": "VV-AO-19-20",
+      "kode": "VV-AO-TO-FL-19-20",
       "navn": {
         "nob": "Naturvernområde i Lavangen kommune"
       }
     },
     {
-      "kode": "VV-AO-19-22",
+      "kode": "VV-AO-TO-FL-19-22",
       "navn": {
         "nob": "Naturvernområde i Bardu kommune"
       }
     },
     {
-      "kode": "VV-AO-19-23",
+      "kode": "VV-AO-TO-FL-19-23",
       "navn": {
         "nob": "Naturvernområde i Salangen kommune"
       }
     },
     {
-      "kode": "VV-AO-19-24",
+      "kode": "VV-AO-TO-FL-19-24",
       "navn": {
         "nob": "Naturvernområde i Målselv kommune"
       }
     },
     {
-      "kode": "VV-AO-19-25",
+      "kode": "VV-AO-TO-FL-19-25",
       "navn": {
         "nob": "Naturvernområde i Sørreisa kommune"
       }
     },
     {
-      "kode": "VV-AO-19-26",
+      "kode": "VV-AO-TO-FL-19-26",
       "navn": {
         "nob": "Naturvernområde i Dyrøy kommune"
       }
     },
     {
-      "kode": "VV-AO-19-27",
+      "kode": "VV-AO-TO-FL-19-27",
       "navn": {
         "nob": "Naturvernområde i Tranøy kommune"
       }
     },
     {
-      "kode": "VV-AO-19-28",
+      "kode": "VV-AO-TO-FL-19-28",
       "navn": {
         "nob": "Naturvernområde i Torsken kommune"
       }
     },
     {
-      "kode": "VV-AO-19-29",
+      "kode": "VV-AO-TO-FL-19-29",
       "navn": {
         "nob": "Naturvernområde i Berg kommune"
       }
     },
     {
-      "kode": "VV-AO-19-31",
+      "kode": "VV-AO-TO-FL-19-31",
       "navn": {
         "nob": "Naturvernområde i Lenvik kommune"
       }
     },
     {
-      "kode": "VV-AO-19-33",
+      "kode": "VV-AO-TO-FL-19-33",
       "navn": {
         "nob": "Naturvernområde i Balsfjord kommune"
       }
     },
     {
-      "kode": "VV-AO-19-36",
+      "kode": "VV-AO-TO-FL-19-36",
       "navn": {
         "nob": "Naturvernområde i Karlsøy kommune"
       }
     },
     {
-      "kode": "VV-AO-19-38",
+      "kode": "VV-AO-TO-FL-19-38",
       "navn": {
         "nob": "Naturvernområde i Lyngen kommune"
       }
     },
     {
-      "kode": "VV-AO-19-39",
+      "kode": "VV-AO-TO-FL-19-39",
       "navn": {
         "nob": "Naturvernområde i Storfjord kommune"
       }
     },
     {
-      "kode": "VV-AO-19-40",
+      "kode": "VV-AO-TO-FL-19-40",
       "navn": {
         "nob": "Naturvernområde i Kåfjord kommune"
       }
     },
     {
-      "kode": "VV-AO-19-41",
+      "kode": "VV-AO-TO-FL-19-41",
       "navn": {
         "nob": "Naturvernområde i Skjervøy kommune"
       }
     },
     {
-      "kode": "VV-AO-19-42",
+      "kode": "VV-AO-TO-FL-19-42",
       "navn": {
         "nob": "Naturvernområde i Nordreisa kommune"
       }
     },
     {
-      "kode": "VV-AO-19-43",
+      "kode": "VV-AO-TO-FL-19-43",
       "navn": {
         "nob": "Naturvernområde i Kvænangen kommune"
       }
     },
     {
-      "kode": "VV-AO-20-02",
+      "kode": "VV-AO-TO-FL-20-02",
       "navn": {
         "nob": "Naturvernområde i Vardø kommune"
       }
     },
     {
-      "kode": "VV-AO-20-03",
+      "kode": "VV-AO-TO-FL-20-03",
       "navn": {
         "nob": "Naturvernområde i Vadsø kommune"
       }
     },
     {
-      "kode": "VV-AO-20-04",
+      "kode": "VV-AO-TO-FL-20-04",
       "navn": {
         "nob": "Naturvernområde i Hammerfest kommune"
       }
     },
     {
-      "kode": "VV-AO-20-11",
+      "kode": "VV-AO-TO-FL-20-11",
       "navn": {
         "nob": "Naturvernområde i Kautokeino kommune"
       }
     },
     {
-      "kode": "VV-AO-20-12",
+      "kode": "VV-AO-TO-FL-20-12",
       "navn": {
         "nob": "Naturvernområde i Alta kommune"
       }
     },
     {
-      "kode": "VV-AO-20-14",
+      "kode": "VV-AO-TO-FL-20-14",
       "navn": {
         "nob": "Naturvernområde i Loppa kommune"
       }
     },
     {
-      "kode": "VV-AO-20-15",
+      "kode": "VV-AO-TO-FL-20-15",
       "navn": {
         "nob": "Naturvernområde i Hasvik kommune"
       }
     },
     {
-      "kode": "VV-AO-20-17",
+      "kode": "VV-AO-TO-FL-20-17",
       "navn": {
         "nob": "Naturvernområde i Kvalsund kommune"
       }
     },
     {
-      "kode": "VV-AO-20-18",
+      "kode": "VV-AO-TO-FL-20-18",
       "navn": {
         "nob": "Naturvernområde i Måsøy kommune"
       }
     },
     {
-      "kode": "VV-AO-20-19",
+      "kode": "VV-AO-TO-FL-20-19",
       "navn": {
         "nob": "Naturvernområde i Nordkapp kommune"
       }
     },
     {
-      "kode": "VV-AO-20-20",
+      "kode": "VV-AO-TO-FL-20-20",
       "navn": {
         "nob": "Naturvernområde i Porsanger kommune"
       }
     },
     {
-      "kode": "VV-AO-20-21",
+      "kode": "VV-AO-TO-FL-20-21",
       "navn": {
         "nob": "Naturvernområde i Karasjok kommune"
       }
     },
     {
-      "kode": "VV-AO-20-22",
+      "kode": "VV-AO-TO-FL-20-22",
       "navn": {
         "nob": "Naturvernområde i Lebesby kommune"
       }
     },
     {
-      "kode": "VV-AO-20-23",
+      "kode": "VV-AO-TO-FL-20-23",
       "navn": {
         "nob": "Naturvernområde i Gamvik kommune"
       }
     },
     {
-      "kode": "VV-AO-20-24",
+      "kode": "VV-AO-TO-FL-20-24",
       "navn": {
         "nob": "Naturvernområde i Berlevåg kommune"
       }
     },
     {
-      "kode": "VV-AO-20-25",
+      "kode": "VV-AO-TO-FL-20-25",
       "navn": {
         "nob": "Naturvernområde i Tana kommune"
       }
     },
     {
-      "kode": "VV-AO-20-27",
+      "kode": "VV-AO-TO-FL-20-27",
       "navn": {
         "nob": "Naturvernområde i Nesseby kommune"
       }
     },
     {
-      "kode": "VV-AO-20-28",
+      "kode": "VV-AO-TO-FL-20-28",
       "navn": {
         "nob": "Naturvernområde i Båtsfjord kommune"
       }
     },
     {
-      "kode": "VV-AO-20-30",
+      "kode": "VV-AO-TO-FL-20-30",
       "navn": {
         "nob": "Naturvernområde i Sør-Varanger kommune"
       }
     },
     {
-      "kode": "VV-AO-50-01",
+      "kode": "VV-AO-TO-FL-50-01",
       "navn": {
         "nob": "Naturvernområde i Trondheim kommune"
       }
     },
     {
-      "kode": "VV-AO-50-04",
+      "kode": "VV-AO-TO-FL-50-04",
       "navn": {
         "nob": "Naturvernområde i Steinkjer kommune"
       }
     },
     {
-      "kode": "VV-AO-50-05",
+      "kode": "VV-AO-TO-FL-50-05",
       "navn": {
         "nob": "Naturvernområde i Namsos kommune"
       }
     },
     {
-      "kode": "VV-AO-50-11",
+      "kode": "VV-AO-TO-FL-50-11",
       "navn": {
         "nob": "Naturvernområde i Hemne kommune"
       }
     },
     {
-      "kode": "VV-AO-50-12",
+      "kode": "VV-AO-TO-FL-50-12",
       "navn": {
         "nob": "Naturvernområde i Snillfjord kommune"
       }
     },
     {
-      "kode": "VV-AO-50-13",
+      "kode": "VV-AO-TO-FL-50-13",
       "navn": {
         "nob": "Naturvernområde i Hitra kommune"
       }
     },
     {
-      "kode": "VV-AO-50-14",
+      "kode": "VV-AO-TO-FL-50-14",
       "navn": {
         "nob": "Naturvernområde i Frøya kommune"
       }
     },
     {
-      "kode": "VV-AO-50-15",
+      "kode": "VV-AO-TO-FL-50-15",
       "navn": {
         "nob": "Naturvernområde i Ørland kommune"
       }
     },
     {
-      "kode": "VV-AO-50-16",
+      "kode": "VV-AO-TO-FL-50-16",
       "navn": {
         "nob": "Naturvernområde i Agdenes kommune"
       }
     },
     {
-      "kode": "VV-AO-50-17",
+      "kode": "VV-AO-TO-FL-50-17",
       "navn": {
         "nob": "Naturvernområde i Bjugn kommune"
       }
     },
     {
-      "kode": "VV-AO-50-18",
+      "kode": "VV-AO-TO-FL-50-18",
       "navn": {
         "nob": "Naturvernområde i Åfjord kommune"
       }
     },
     {
-      "kode": "VV-AO-50-19",
+      "kode": "VV-AO-TO-FL-50-19",
       "navn": {
         "nob": "Naturvernområde i Roan kommune"
       }
     },
     {
-      "kode": "VV-AO-50-20",
+      "kode": "VV-AO-TO-FL-50-20",
       "navn": {
         "nob": "Naturvernområde i Osen kommune"
       }
     },
     {
-      "kode": "VV-AO-50-21",
+      "kode": "VV-AO-TO-FL-50-21",
       "navn": {
         "nob": "Naturvernområde i Oppdal kommune"
       }
     },
     {
-      "kode": "VV-AO-50-22",
+      "kode": "VV-AO-TO-FL-50-22",
       "navn": {
         "nob": "Naturvernområde i Rennebu kommune"
       }
     },
     {
-      "kode": "VV-AO-50-23",
+      "kode": "VV-AO-TO-FL-50-23",
       "navn": {
         "nob": "Naturvernområde i Meldal kommune"
       }
     },
     {
-      "kode": "VV-AO-50-24",
+      "kode": "VV-AO-TO-FL-50-24",
       "navn": {
         "nob": "Naturvernområde i Orkdal kommune"
       }
     },
     {
-      "kode": "VV-AO-50-25",
+      "kode": "VV-AO-TO-FL-50-25",
       "navn": {
         "nob": "Naturvernområde i Røros kommune"
       }
     },
     {
-      "kode": "VV-AO-50-26",
+      "kode": "VV-AO-TO-FL-50-26",
       "navn": {
         "nob": "Naturvernområde i Holtålen kommune"
       }
     },
     {
-      "kode": "VV-AO-50-27",
+      "kode": "VV-AO-TO-FL-50-27",
       "navn": {
         "nob": "Naturvernområde i Midtre Gauldal kommune"
       }
     },
     {
-      "kode": "VV-AO-50-28",
+      "kode": "VV-AO-TO-FL-50-28",
       "navn": {
         "nob": "Naturvernområde i Melhus kommune"
       }
     },
     {
-      "kode": "VV-AO-50-29",
+      "kode": "VV-AO-TO-FL-50-29",
       "navn": {
         "nob": "Naturvernområde i Skaun kommune"
       }
     },
     {
-      "kode": "VV-AO-50-30",
+      "kode": "VV-AO-TO-FL-50-30",
       "navn": {
         "nob": "Naturvernområde i Klæbu kommune"
       }
     },
     {
-      "kode": "VV-AO-50-31",
+      "kode": "VV-AO-TO-FL-50-31",
       "navn": {
         "nob": "Naturvernområde i Malvik kommune"
       }
     },
     {
-      "kode": "VV-AO-50-32",
+      "kode": "VV-AO-TO-FL-50-32",
       "navn": {
         "nob": "Naturvernområde i Selbu kommune"
       }
     },
     {
-      "kode": "VV-AO-50-33",
+      "kode": "VV-AO-TO-FL-50-33",
       "navn": {
         "nob": "Naturvernområde i Tydal kommune"
       }
     },
     {
-      "kode": "VV-AO-50-34",
+      "kode": "VV-AO-TO-FL-50-34",
       "navn": {
         "nob": "Naturvernområde i Meråker kommune"
       }
     },
     {
-      "kode": "VV-AO-50-35",
+      "kode": "VV-AO-TO-FL-50-35",
       "navn": {
         "nob": "Naturvernområde i Stjørdal kommune"
       }
     },
     {
-      "kode": "VV-AO-50-36",
+      "kode": "VV-AO-TO-FL-50-36",
       "navn": {
         "nob": "Naturvernområde i Frosta kommune"
       }
     },
     {
-      "kode": "VV-AO-50-37",
+      "kode": "VV-AO-TO-FL-50-37",
       "navn": {
         "nob": "Naturvernområde i Levanger kommune"
       }
     },
     {
-      "kode": "VV-AO-50-38",
+      "kode": "VV-AO-TO-FL-50-38",
       "navn": {
         "nob": "Naturvernområde i Verdal kommune"
       }
     },
     {
-      "kode": "VV-AO-50-39",
+      "kode": "VV-AO-TO-FL-50-39",
       "navn": {
         "nob": "Naturvernområde i Verran kommune"
       }
     },
     {
-      "kode": "VV-AO-50-40",
+      "kode": "VV-AO-TO-FL-50-40",
       "navn": {
         "nob": "Naturvernområde i Namdalseid kommune"
       }
     },
     {
-      "kode": "VV-AO-50-41",
+      "kode": "VV-AO-TO-FL-50-41",
       "navn": {
         "nob": "Naturvernområde i Snåsa kommune"
       }
     },
     {
-      "kode": "VV-AO-50-42",
+      "kode": "VV-AO-TO-FL-50-42",
       "navn": {
         "nob": "Naturvernområde i Lierne kommune"
       }
     },
     {
-      "kode": "VV-AO-50-43",
+      "kode": "VV-AO-TO-FL-50-43",
       "navn": {
         "nob": "Naturvernområde i Røyrvik kommune"
       }
     },
     {
-      "kode": "VV-AO-50-44",
+      "kode": "VV-AO-TO-FL-50-44",
       "navn": {
         "nob": "Naturvernområde i Namsskogan kommune"
       }
     },
     {
-      "kode": "VV-AO-50-45",
+      "kode": "VV-AO-TO-FL-50-45",
       "navn": {
         "nob": "Naturvernområde i Grong kommune"
       }
     },
     {
-      "kode": "VV-AO-50-46",
+      "kode": "VV-AO-TO-FL-50-46",
       "navn": {
         "nob": "Naturvernområde i Høylandet kommune"
       }
     },
     {
-      "kode": "VV-AO-50-47",
+      "kode": "VV-AO-TO-FL-50-47",
       "navn": {
         "nob": "Naturvernområde i Overhalla kommune"
       }
     },
     {
-      "kode": "VV-AO-50-48",
+      "kode": "VV-AO-TO-FL-50-48",
       "navn": {
         "nob": "Naturvernområde i Fosnes kommune"
       }
     },
     {
-      "kode": "VV-AO-50-49",
+      "kode": "VV-AO-TO-FL-50-49",
       "navn": {
         "nob": "Naturvernområde i Flatanger kommune"
       }
     },
     {
-      "kode": "VV-AO-50-50",
+      "kode": "VV-AO-TO-FL-50-50",
       "navn": {
         "nob": "Naturvernområde i Vikna kommune"
       }
     },
     {
-      "kode": "VV-AO-50-51",
+      "kode": "VV-AO-TO-FL-50-51",
       "navn": {
         "nob": "Naturvernområde i Nærøy kommune"
       }
     },
     {
-      "kode": "VV-AO-50-52",
+      "kode": "VV-AO-TO-FL-50-52",
       "navn": {
         "nob": "Naturvernområde i Leka kommune"
       }
     },
     {
-      "kode": "VV-AO-50-53",
+      "kode": "VV-AO-TO-FL-50-53",
       "navn": {
         "nob": "Naturvernområde i Inderøy kommune"
       }
     },
     {
-      "kode": "VV-AO-50-54",
+      "kode": "VV-AO-TO-FL-50-54",
       "navn": {
         "nob": "Naturvernområde i Indre Fosen kommune"
       }
     },
     {
-      "kode": "VV-AO-50-61",
+      "kode": "VV-AO-TO-FL-50-61",
       "navn": {
         "nob": "Naturvernområde i Rindal kommune"
       }
@@ -2643,7 +2643,7 @@
   ],
   "meta": {
     "tittel": "Kommune",
-    "produsertUtc": "2019-05-05T20:52:04.290Z",
+    "produsertUtc": "2019-08-25T17:52:14.973Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/naturvern/master/kommune.json",
     "tool": {
