@@ -13,19 +13,24 @@
           "kode": {
             "type": "string"
           },
-          "tittel": {
+          "navn": {
             "type": "object",
             "properties": {
-              "nb": {
+              "nob": {
                 "type": "string"
               },
-              "en": {
+              "eng": {
                 "type": "string"
               }
             }
           },
           "ingress": {
-            "type": "string"
+            "type": "object",
+            "properties": {
+              "nb": {
+                "type": "string"
+              }
+            }
           },
           "infoUrl": {
             "type": "string"
@@ -33,11 +38,21 @@
           "sortering": {
             "type": "number"
           },
+          "definisjon": {
+            "type": "string"
+          },
           "type": {
             "type": "string"
           }
         },
-        "required": ["kode", "tittel", "ingress"]
+        "required": [
+          "kode",
+          "navn",
+          "ingress",
+          "infoUrl",
+          "definisjon",
+          "type"
+        ]
       }
     }
   }
