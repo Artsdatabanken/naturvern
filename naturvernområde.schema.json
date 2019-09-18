@@ -13,16 +13,19 @@
               "ansvarlig": {
                 "type": "object",
                 "properties": {
+                  "definisjon": {
+                    "type": "string"
+                  },
                   "kode": {
                     "type": "string"
                   },
                   "kodeautor": {
                     "type": "number"
                   },
-                  "tittel": {
+                  "navn": {
                     "type": "object",
                     "properties": {
-                      "nb": {
+                      "nob": {
                         "type": "string"
                       }
                     }
@@ -32,7 +35,7 @@
               "instans": {
                 "type": "object",
                 "properties": {
-                  "navn": {
+                  "tittel": {
                     "type": "string"
                   }
                 }
@@ -42,6 +45,9 @@
           "geografi": {
             "type": "object",
             "properties": {
+              "areal": {
+                "type": "number"
+              },
               "kommune": {
                 "type": "array",
                 "items": {
@@ -90,17 +96,6 @@
               }
             }
           },
-          "navn": {
-            "type": "object",
-            "properties": {
-              "kort": {
-                "type": "string"
-              },
-              "offisielt": {
-                "type": "string"
-              }
-            }
-          },
           "revisjon": {
             "type": "object",
             "properties": {
@@ -126,6 +121,14 @@
               }
             }
           },
+          "tittel": {
+            "type": "object",
+            "properties": {
+              "nob": {
+                "type": "string"
+              }
+            }
+          },
           "verneform": {
             "type": "object",
             "properties": {
@@ -138,7 +141,7 @@
               "navn": {
                 "type": "object",
                 "properties": {
-                  "nb": {
+                  "nob": {
                     "type": "string"
                   }
                 }
@@ -157,7 +160,7 @@
               "navn": {
                 "type": "object",
                 "properties": {
-                  "nb": {
+                  "nob": {
                     "type": "string"
                   }
                 }
@@ -179,19 +182,24 @@
                   "kodeautor": {
                     "type": "number"
                   },
-                  "tittel": {
+                  "lenke": {
                     "type": "object",
                     "properties": {
-                      "en": {
-                        "type": "string"
-                      },
-                      "nb": {
+                      "iucn": {
                         "type": "string"
                       }
                     }
                   },
-                  "url": {
-                    "type": "string"
+                  "navn": {
+                    "type": "object",
+                    "properties": {
+                      "eng": {
+                        "type": "string"
+                      },
+                      "nob": {
+                        "type": "string"
+                      }
+                    }
                   }
                 }
               },
@@ -213,10 +221,10 @@
                       "string"
                     ]
                   },
-                  "tittel": {
+                  "navn": {
                     "type": "object",
                     "properties": {
-                      "nb": {
+                      "nob": {
                         "type": "string"
                       }
                     }
@@ -225,8 +233,13 @@
               }
             }
           },
-          "foto": {
-            "type": "string"
+          "mediakilde": {
+            "type": "object",
+            "properties": {
+              "foto": {
+                "type": "string"
+              }
+            }
           }
         },
         "required": [
@@ -235,12 +248,12 @@
           "kode",
           "kodeautor",
           "lenke",
-          "navn",
           "revisjon",
+          "tittel",
           "verneform",
           "verneplan",
           "vurdering",
-          "foto"
+          "mediakilde"
         ]
       }
     },
