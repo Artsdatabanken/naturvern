@@ -2,58 +2,294 @@
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
   "properties": {
-    "$schema": {
-      "type": "string"
-    },
     "items": {
       "type": "array",
       "items": {
         "type": "object",
         "properties": {
+          "forvaltning": {
+            "type": "object",
+            "properties": {
+              "ansvarlig": {
+                "type": "object",
+                "properties": {
+                  "definisjon": {
+                    "type": "string"
+                  },
+                  "kode": {
+                    "type": "string"
+                  },
+                  "kodeautor": {
+                    "type": "number"
+                  },
+                  "navn": {
+                    "type": "object",
+                    "properties": {
+                      "nob": {
+                        "type": "string"
+                      }
+                    }
+                  }
+                }
+              },
+              "instans": {
+                "type": "object",
+                "properties": {
+                  "tittel": {
+                    "type": "string"
+                  }
+                }
+              }
+            }
+          },
+          "geografi": {
+            "type": "object",
+            "properties": {
+              "areal": {
+                "type": "number"
+              },
+              "kommune": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "punkt": {
+                "type": "object",
+                "properties": {
+                  "bredde": {
+                    "type": "number"
+                  },
+                  "lengde": {
+                    "type": "number"
+                  }
+                }
+              },
+              "elevasjon": {
+                "type": "number"
+              }
+            }
+          },
           "kode": {
             "type": "string"
           },
-          "navn": {
+          "kodeautor": {
+            "type": "string"
+          },
+          "lenke": {
+            "type": "object",
+            "properties": {
+              "faktaark": {
+                "type": "string"
+              },
+              "verneforskrift": {
+                "type": "string"
+              },
+              "wikidata": {
+                "type": "string"
+              },
+              "wikipedia": {
+                "type": "string"
+              },
+              "offisiell": {
+                "type": "string"
+              }
+            }
+          },
+          "revisjon": {
+            "type": "object",
+            "properties": {
+              "dato": {
+                "type": "object",
+                "properties": {
+                  "førstvernet": {
+                    "type": "string"
+                  },
+                  "plandato": {
+                    "type": "string"
+                  },
+                  "vernet": {
+                    "type": "string"
+                  }
+                }
+              },
+              "planbehov": {
+                "type": "string"
+              },
+              "status": {
+                "type": "string"
+              }
+            }
+          },
+          "tittel": {
             "type": "object",
             "properties": {
               "nob": {
                 "type": "string"
-              },
-              "eng": {
-                "type": "string"
               }
             }
           },
-          "ingress": {
+          "verneform": {
             "type": "object",
             "properties": {
-              "nb": {
+              "kode": {
                 "type": "string"
+              },
+              "kodeautor": {
+                "type": "string"
+              },
+              "navn": {
+                "type": "object",
+                "properties": {
+                  "nob": {
+                    "type": "string"
+                  }
+                }
               }
             }
           },
-          "infoUrl": {
-            "type": "string"
+          "verneplan": {
+            "type": "object",
+            "properties": {
+              "kode": {
+                "type": "string"
+              },
+              "kodeautor": {
+                "type": "string"
+              },
+              "navn": {
+                "type": "object",
+                "properties": {
+                  "nob": {
+                    "type": "string"
+                  }
+                }
+              }
+            }
           },
-          "sortering": {
-            "type": "number"
+          "vurdering": {
+            "type": "object",
+            "properties": {
+              "iucn": {
+                "type": "object",
+                "properties": {
+                  "beskrivelse": {
+                    "type": "string"
+                  },
+                  "kode": {
+                    "type": "string"
+                  },
+                  "kodeautor": {
+                    "type": "number"
+                  },
+                  "lenke": {
+                    "type": "object",
+                    "properties": {
+                      "iucn": {
+                        "type": "string"
+                      }
+                    }
+                  },
+                  "navn": {
+                    "type": "object",
+                    "properties": {
+                      "eng": {
+                        "type": "string"
+                      },
+                      "nob": {
+                        "type": "string"
+                      }
+                    }
+                  }
+                }
+              },
+              "moblandprioritet": {
+                "type": "string"
+              },
+              "nettverk": {
+                "type": "string"
+              },
+              "truet": {
+                "type": "object",
+                "properties": {
+                  "kode": {
+                    "type": "string"
+                  },
+                  "kodeautor": {
+                    "type": [
+                      "number",
+                      "string"
+                    ]
+                  },
+                  "navn": {
+                    "type": "object",
+                    "properties": {
+                      "nob": {
+                        "type": "string"
+                      }
+                    }
+                  }
+                }
+              }
+            }
           },
-          "definisjon": {
-            "type": "string"
-          },
-          "type": {
-            "type": "string"
+          "mediakilde": {
+            "type": "object",
+            "properties": {
+              "foto": {
+                "type": "string"
+              }
+            }
           }
         },
         "required": [
+          "forvaltning",
+          "geografi",
           "kode",
-          "navn",
-          "ingress",
-          "infoUrl",
-          "definisjon",
-          "type"
+          "kodeautor",
+          "lenke",
+          "revisjon",
+          "tittel",
+          "verneform",
+          "verneplan",
+          "vurdering",
+          "mediakilde"
         ]
       }
+    },
+    "meta": {
+      "type": "object",
+      "properties": {
+        "tittel": {
+          "type": "string"
+        },
+        "produsertUtc": {
+          "type": "string"
+        },
+        "utgiver": {
+          "type": "string"
+        },
+        "url": {
+          "type": "string"
+        },
+        "tool": {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "url": {
+              "type": "string"
+            }
+          }
+        },
+        "elementer": {
+          "type": "number"
+        }
+      }
+    },
+    "$schema": {
+      "type": "string"
     }
   }
 }
