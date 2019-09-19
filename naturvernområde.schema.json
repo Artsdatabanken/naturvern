@@ -96,10 +96,13 @@
               }
             }
           },
-          "media": {
+          "mediakilde": {
             "type": "object",
             "properties": {
               "kart": {
+                "type": "string"
+              },
+              "foto": {
                 "type": "string"
               }
             }
@@ -240,14 +243,6 @@
                 }
               }
             }
-          },
-          "mediakilde": {
-            "type": "object",
-            "properties": {
-              "foto": {
-                "type": "string"
-              }
-            }
           }
         },
         "required": [
@@ -256,13 +251,12 @@
           "kode",
           "kodeautor",
           "lenke",
-          "media",
+          "mediakilde",
           "revisjon",
           "tittel",
           "verneform",
           "verneplan",
-          "vurdering",
-          "mediakilde"
+          "vurdering"
         ]
       }
     },
