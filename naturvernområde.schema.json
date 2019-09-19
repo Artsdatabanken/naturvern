@@ -96,6 +96,14 @@
               }
             }
           },
+          "media": {
+            "type": "object",
+            "properties": {
+              "kart": {
+                "type": "string"
+              }
+            }
+          },
           "revisjon": {
             "type": "object",
             "properties": {
@@ -248,6 +256,7 @@
           "kode",
           "kodeautor",
           "lenke",
+          "media",
           "revisjon",
           "tittel",
           "verneform",
