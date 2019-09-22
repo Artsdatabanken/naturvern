@@ -2643,7 +2643,7 @@
   ],
   "meta": {
     "tittel": "Kommune",
-    "produsertUtc": "2019-09-22T19:00:16.363Z",
+    "produsertUtc": "2019-09-22T19:04:00.987Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/naturvern/master/kommune.json",
     "tool": {
@@ -2651,5 +2651,6 @@
       "url": "https://github.com/Artsdatabanken/naturvern-lastejobb"
     },
     "elementer": 440
-  }
+  },
+  "$schema": "https://raw.githubusercontent.com/Artsdatabanken/naturvern/master/kommune.schema.json#"
 }

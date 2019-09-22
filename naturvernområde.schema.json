@@ -1,1 +1,311 @@
-{"$schema":"http://json-schema.org/draft-04/schema#","type":"object","properties":{"items":{"type":"array","items":{"type":"object","properties":{"forvaltning":{"type":"object","properties":{"ansvarlig":{"type":"object","properties":{"kode":{"type":"string"},"kodeautor":{"type":"number"},"navn":{"type":"object","properties":{"nob":{"type":"string"}}}}},"instans":{"type":"object","properties":{"tittel":{"type":"string"}}}}},"geografi":{"type":"object","properties":{"areal":{"type":"number"},"kommune":{"type":"array","items":{"type":"string"}},"punkt":{"type":"object","properties":{"bredde":{"type":"number"},"lengde":{"type":"number"}}},"elevasjon":{"type":"number"}}},"kode":{"type":"string"},"kodeautor":{"type":"string"},"lenke":{"type":"object","properties":{"faktaark":{"type":"string"},"verneforskrift":{"type":["string","null"]},"wikidata":{"type":"string"},"wikipedia":{"type":"string"},"offisiell":{"type":"string"}}},"mediakilde":{"type":"object","properties":{"kart":{"type":"string"},"foto":{"type":"string"}}},"revisjon":{"type":"object","properties":{"dato":{"type":"object","properties":{"førstvernet":{"type":"string","format":"date-time"},"plandato":{"type":"string"},"vernet":{"type":"string","format":"date-time"}}},"planbehov":{"type":"string"},"status":{"type":"string"}}},"tittel":{"type":"object","properties":{"nob":{"type":"string"}}},"verneform":{"type":"object","properties":{"kode":{"type":"string"},"kodeautor":{"type":"string"},"navn":{"type":"object","properties":{"nob":{"type":"string"}}}}},"verneplan":{"type":"object","properties":{"kode":{"type":"string"},"kodeautor":{"type":"string"},"navn":{"type":"object","properties":{"nob":{"type":"string"}}}}},"vurdering":{"type":"object","properties":{"iucn":{"type":"object","properties":{"beskrivelse":{"type":"string"},"kode":{"type":"string"},"kodeautor":{"type":"number"},"lenke":{"type":"object","properties":{"iucn":{"type":"string"}}},"navn":{"type":"object","properties":{"eng":{"type":"string"},"nob":{"type":"string"}}}}},"moblandprioritet":{"type":"string"},"nettverk":{"type":"string"},"truet":{"type":"object","properties":{"kode":{"type":"string"},"kodeautor":{"type":["number","string"]},"navn":{"type":"object","properties":{"nob":{"type":"string"}}}}}}}},"required":["forvaltning","geografi","kode","kodeautor","lenke","mediakilde","revisjon","tittel","verneform","verneplan","vurdering"]}},"meta":{"type":"object","properties":{"tittel":{"type":"string"},"produsertUtc":{"type":"string"},"utgiver":{"type":"string"},"url":{"type":"string"},"tool":{"type":"object","properties":{"name":{"type":"string"},"url":{"type":"string"}}},"elementer":{"type":"number"}}}},"meta":{"tittel":"Naturvernområde.schema","produsertUtc":"2019-09-22T19:00:20.906Z","utgiver":"Artsdatabanken","url":"https://raw.githubusercontent.com/Artsdatabanken/naturvern/master/naturvernområde.schema.json","tool":{"name":"naturvern-lastejobb","url":"https://github.com/Artsdatabanken/naturvern-lastejobb"},"elementer":3}}
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "items": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "forvaltning": {
+            "type": "object",
+            "properties": {
+              "ansvarlig": {
+                "type": "object",
+                "properties": {
+                  "kode": {
+                    "type": "string"
+                  },
+                  "kodeautor": {
+                    "type": "number"
+                  },
+                  "navn": {
+                    "type": "object",
+                    "properties": {
+                      "nob": {
+                        "type": "string"
+                      }
+                    }
+                  }
+                }
+              },
+              "instans": {
+                "type": "object",
+                "properties": {
+                  "tittel": {
+                    "type": "string"
+                  }
+                }
+              }
+            }
+          },
+          "geografi": {
+            "type": "object",
+            "properties": {
+              "areal": {
+                "type": "number"
+              },
+              "kommune": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "punkt": {
+                "type": "object",
+                "properties": {
+                  "bredde": {
+                    "type": "number"
+                  },
+                  "lengde": {
+                    "type": "number"
+                  }
+                }
+              },
+              "elevasjon": {
+                "type": "number"
+              }
+            }
+          },
+          "kode": {
+            "type": "string"
+          },
+          "kodeautor": {
+            "type": "string"
+          },
+          "lenke": {
+            "type": "object",
+            "properties": {
+              "faktaark": {
+                "type": "string"
+              },
+              "verneforskrift": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "wikidata": {
+                "type": "string"
+              },
+              "wikipedia": {
+                "type": "string"
+              },
+              "offisiell": {
+                "type": "string"
+              }
+            }
+          },
+          "mediakilde": {
+            "type": "object",
+            "properties": {
+              "kart": {
+                "type": "string"
+              },
+              "foto": {
+                "type": "string"
+              }
+            }
+          },
+          "revisjon": {
+            "type": "object",
+            "properties": {
+              "dato": {
+                "type": "object",
+                "properties": {
+                  "førstvernet": {
+                    "type": "string",
+                    "format": "date-time"
+                  },
+                  "plandato": {
+                    "type": "string"
+                  },
+                  "vernet": {
+                    "type": "string",
+                    "format": "date-time"
+                  }
+                }
+              },
+              "planbehov": {
+                "type": "string"
+              },
+              "status": {
+                "type": "string"
+              }
+            }
+          },
+          "tittel": {
+            "type": "object",
+            "properties": {
+              "nob": {
+                "type": "string"
+              }
+            }
+          },
+          "verneform": {
+            "type": "object",
+            "properties": {
+              "kode": {
+                "type": "string"
+              },
+              "kodeautor": {
+                "type": "string"
+              },
+              "navn": {
+                "type": "object",
+                "properties": {
+                  "nob": {
+                    "type": "string"
+                  }
+                }
+              }
+            }
+          },
+          "verneplan": {
+            "type": "object",
+            "properties": {
+              "kode": {
+                "type": "string"
+              },
+              "kodeautor": {
+                "type": "string"
+              },
+              "navn": {
+                "type": "object",
+                "properties": {
+                  "nob": {
+                    "type": "string"
+                  }
+                }
+              }
+            }
+          },
+          "vurdering": {
+            "type": "object",
+            "properties": {
+              "iucn": {
+                "type": "object",
+                "properties": {
+                  "beskrivelse": {
+                    "type": "string"
+                  },
+                  "kode": {
+                    "type": "string"
+                  },
+                  "kodeautor": {
+                    "type": "number"
+                  },
+                  "lenke": {
+                    "type": "object",
+                    "properties": {
+                      "iucn": {
+                        "type": "string"
+                      }
+                    }
+                  },
+                  "navn": {
+                    "type": "object",
+                    "properties": {
+                      "eng": {
+                        "type": "string"
+                      },
+                      "nob": {
+                        "type": "string"
+                      }
+                    }
+                  }
+                }
+              },
+              "moblandprioritet": {
+                "type": "string"
+              },
+              "nettverk": {
+                "type": "string"
+              },
+              "truet": {
+                "type": "object",
+                "properties": {
+                  "kode": {
+                    "type": "string"
+                  },
+                  "kodeautor": {
+                    "type": [
+                      "number",
+                      "string"
+                    ]
+                  },
+                  "navn": {
+                    "type": "object",
+                    "properties": {
+                      "nob": {
+                        "type": "string"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "required": [
+          "forvaltning",
+          "geografi",
+          "kode",
+          "kodeautor",
+          "lenke",
+          "mediakilde",
+          "revisjon",
+          "tittel",
+          "verneform",
+          "verneplan",
+          "vurdering"
+        ]
+      }
+    },
+    "meta": {
+      "type": "object",
+      "properties": {
+        "tittel": {
+          "type": "string"
+        },
+        "produsertUtc": {
+          "type": "string"
+        },
+        "utgiver": {
+          "type": "string"
+        },
+        "url": {
+          "type": "string"
+        },
+        "tool": {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "url": {
+              "type": "string"
+            }
+          }
+        },
+        "elementer": {
+          "type": "number"
+        }
+      }
+    },
+    "$schema": {
+      "type": "string"
+    }
+  },
+  "meta": {
+    "tittel": "Naturvernområde.schema",
+    "produsertUtc": "2019-09-22T19:04:05.597Z",
+    "utgiver": "Artsdatabanken",
+    "url": "https://raw.githubusercontent.com/Artsdatabanken/naturvern/master/naturvernområde.schema.json",
+    "tool": {
+      "name": "naturvern-lastejobb",
+      "url": "https://github.com/Artsdatabanken/naturvern-lastejobb"
+    },
+    "elementer": 3
+  }
+}
