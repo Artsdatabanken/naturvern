@@ -7,15 +7,35 @@
       "items": {
         "type": "object",
         "properties": {
-          "betegnelse": {
-            "type": "object",
-            "properties": {}
+          "farge": {
+            "type": "string"
           },
           "foreldre": {
             "type": "array",
             "items": {
               "type": "string"
             }
+          },
+          "kode": {
+            "type": "string"
+          },
+          "tittel": {
+            "type": "object",
+            "properties": {
+              "nb": {
+                "type": "string"
+              },
+              "nob": {
+                "type": "string"
+              }
+            }
+          },
+          "url": {
+            "type": "string"
+          },
+          "betegnelse": {
+            "type": "object",
+            "properties": {}
           },
           "forvaltning": {
             "type": "object",
@@ -55,12 +75,6 @@
               "areal": {
                 "type": "number"
               },
-              "kommune": {
-                "type": "array",
-                "items": {
-                  "type": "string"
-                }
-              },
               "punkt": {
                 "type": "object",
                 "properties": {
@@ -76,9 +90,6 @@
                 "type": "number"
               }
             }
-          },
-          "kode": {
-            "type": "string"
           },
           "kodeautor": {
             "type": "string"
@@ -113,6 +124,9 @@
                 "type": "string"
               }
             }
+          },
+          "navn": {
+            "type": "string"
           },
           "relasjon": {
             "type": "array",
@@ -165,14 +179,6 @@
               }
             }
           },
-          "tittel": {
-            "type": "object",
-            "properties": {
-              "nob": {
-                "type": "string"
-              }
-            }
-          },
           "verneform": {
             "type": "object",
             "properties": {
@@ -182,7 +188,7 @@
               "kodeautor": {
                 "type": "string"
               },
-              "navn": {
+              "tittel": {
                 "type": "object",
                 "properties": {
                   "nob": {
@@ -201,7 +207,7 @@
               "kodeautor": {
                 "type": "string"
               },
-              "navn": {
+              "tittel": {
                 "type": "object",
                 "properties": {
                   "nob": {
@@ -279,20 +285,23 @@
           }
         },
         "required": [
-          "betegnelse",
           "foreldre",
+          "kode",
+          "tittel",
+          "url",
+          "betegnelse",
           "forvaltning",
           "geografi",
-          "kode",
           "kodeautor",
           "lenke",
           "mediakilde",
+          "navn",
           "relasjon",
           "revisjon",
-          "tittel",
           "verneform",
           "verneplan",
-          "vurdering"
+          "vurdering",
+          "farge"
         ]
       }
     },
@@ -333,7 +342,7 @@
   },
   "meta": {
     "tittel": "Type.schema",
-    "produsertUtc": "2019-09-22T19:04:06.187Z",
+    "produsertUtc": "2019-09-25T06:15:40.416Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/naturvern/master/type.schema.json",
     "tool": {

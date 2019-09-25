@@ -7,108 +7,6 @@
       }
     },
     {
-      "kode": "VV-AO-TO-FL-02",
-      "tittel": {
-        "nob": "Naturvernområde i Akershus fylke"
-      }
-    },
-    {
-      "kode": "VV-AO-TO-FL-03",
-      "tittel": {
-        "nob": "Naturvernområde i Oslo fylke"
-      }
-    },
-    {
-      "kode": "VV-AO-TO-FL-04",
-      "tittel": {
-        "nob": "Naturvernområde i Hedmark fylke"
-      }
-    },
-    {
-      "kode": "VV-AO-TO-FL-05",
-      "tittel": {
-        "nob": "Naturvernområde i Oppland fylke"
-      }
-    },
-    {
-      "kode": "VV-AO-TO-FL-06",
-      "tittel": {
-        "nob": "Naturvernområde i Buskerud fylke"
-      }
-    },
-    {
-      "kode": "VV-AO-TO-FL-07",
-      "tittel": {
-        "nob": "Naturvernområde i Vestfold fylke"
-      }
-    },
-    {
-      "kode": "VV-AO-TO-FL-08",
-      "tittel": {
-        "nob": "Naturvernområde i Telemark fylke"
-      }
-    },
-    {
-      "kode": "VV-AO-TO-FL-09",
-      "tittel": {
-        "nob": "Naturvernområde i Aust-Agder fylke"
-      }
-    },
-    {
-      "kode": "VV-AO-TO-FL-10",
-      "tittel": {
-        "nob": "Naturvernområde i Vest-Agder fylke"
-      }
-    },
-    {
-      "kode": "VV-AO-TO-FL-11",
-      "tittel": {
-        "nob": "Naturvernområde i Rogaland fylke"
-      }
-    },
-    {
-      "kode": "VV-AO-TO-FL-12",
-      "tittel": {
-        "nob": "Naturvernområde i Hordaland fylke"
-      }
-    },
-    {
-      "kode": "VV-AO-TO-FL-14",
-      "tittel": {
-        "nob": "Naturvernområde i Sogn og Fjordane fylke"
-      }
-    },
-    {
-      "kode": "VV-AO-TO-FL-15",
-      "tittel": {
-        "nob": "Naturvernområde i Møre og Romsdal fylke"
-      }
-    },
-    {
-      "kode": "VV-AO-TO-FL-18",
-      "tittel": {
-        "nob": "Naturvernområde i Nordland fylke"
-      }
-    },
-    {
-      "kode": "VV-AO-TO-FL-19",
-      "tittel": {
-        "nob": "Naturvernområde i Troms fylke"
-      }
-    },
-    {
-      "kode": "VV-AO-TO-FL-20",
-      "tittel": {
-        "nob": "Naturvernområde i Finnmark fylke"
-      }
-    },
-    {
-      "kode": "VV-AO-TO-FL-50",
-      "tittel": {
-        "nob": "Naturvernområde i Trøndelag fylke"
-      }
-    },
-    {
       "kode": "VV-AO-TO-FL-01-01",
       "tittel": {
         "nob": "Naturvernområde i Halden kommune"
@@ -214,6 +112,12 @@
       "kode": "VV-AO-TO-FL-01-38",
       "tittel": {
         "nob": "Naturvernområde i Hobøl kommune"
+      }
+    },
+    {
+      "kode": "VV-AO-TO-FL-02",
+      "tittel": {
+        "nob": "Naturvernområde i Akershus fylke"
       }
     },
     {
@@ -349,9 +253,21 @@
       }
     },
     {
+      "kode": "VV-AO-TO-FL-03",
+      "tittel": {
+        "nob": "Naturvernområde i Oslo fylke"
+      }
+    },
+    {
       "kode": "VV-AO-TO-FL-03-01",
       "tittel": {
         "nob": "Naturvernområde i Oslo kommune"
+      }
+    },
+    {
+      "kode": "VV-AO-TO-FL-04",
+      "tittel": {
+        "nob": "Naturvernområde i Hedmark fylke"
       }
     },
     {
@@ -484,6 +400,12 @@
       "kode": "VV-AO-TO-FL-04-41",
       "tittel": {
         "nob": "Naturvernområde i Os kommune"
+      }
+    },
+    {
+      "kode": "VV-AO-TO-FL-05",
+      "tittel": {
+        "nob": "Naturvernområde i Oppland fylke"
       }
     },
     {
@@ -643,6 +565,12 @@
       }
     },
     {
+      "kode": "VV-AO-TO-FL-06",
+      "tittel": {
+        "nob": "Naturvernområde i Buskerud fylke"
+      }
+    },
+    {
       "kode": "VV-AO-TO-FL-06-02",
       "tittel": {
         "nob": "Naturvernområde i Drammen kommune"
@@ -769,6 +697,12 @@
       }
     },
     {
+      "kode": "VV-AO-TO-FL-07",
+      "tittel": {
+        "nob": "Naturvernområde i Vestfold fylke"
+      }
+    },
+    {
       "kode": "VV-AO-TO-FL-07-01",
       "tittel": {
         "nob": "Naturvernområde i Horten kommune"
@@ -820,6 +754,12 @@
       "kode": "VV-AO-TO-FL-07-29",
       "tittel": {
         "nob": "Naturvernområde i Færder kommune"
+      }
+    },
+    {
+      "kode": "VV-AO-TO-FL-08",
+      "tittel": {
+        "nob": "Naturvernområde i Telemark fylke"
       }
     },
     {
@@ -931,6 +871,12 @@
       }
     },
     {
+      "kode": "VV-AO-TO-FL-09",
+      "tittel": {
+        "nob": "Naturvernområde i Aust-Agder fylke"
+      }
+    },
+    {
       "kode": "VV-AO-TO-FL-09-01",
       "tittel": {
         "nob": "Naturvernområde i Risør kommune"
@@ -1021,6 +967,12 @@
       }
     },
     {
+      "kode": "VV-AO-TO-FL-10",
+      "tittel": {
+        "nob": "Naturvernområde i Vest-Agder fylke"
+      }
+    },
+    {
       "kode": "VV-AO-TO-FL-10-01",
       "tittel": {
         "nob": "Naturvernområde i Kristiansand kommune"
@@ -1108,6 +1060,12 @@
       "kode": "VV-AO-TO-FL-10-46",
       "tittel": {
         "nob": "Naturvernområde i Sirdal kommune"
+      }
+    },
+    {
+      "kode": "VV-AO-TO-FL-11",
+      "tittel": {
+        "nob": "Naturvernområde i Rogaland fylke"
       }
     },
     {
@@ -1264,6 +1222,12 @@
       "kode": "VV-AO-TO-FL-11-60",
       "tittel": {
         "nob": "Naturvernområde i Vindafjord kommune"
+      }
+    },
+    {
+      "kode": "VV-AO-TO-FL-12",
+      "tittel": {
+        "nob": "Naturvernområde i Hordaland fylke"
       }
     },
     {
@@ -1465,6 +1429,12 @@
       }
     },
     {
+      "kode": "VV-AO-TO-FL-14",
+      "tittel": {
+        "nob": "Naturvernområde i Sogn og Fjordane fylke"
+      }
+    },
+    {
       "kode": "VV-AO-TO-FL-14-01",
       "tittel": {
         "nob": "Naturvernområde i Flora kommune"
@@ -1618,6 +1588,12 @@
       "kode": "VV-AO-TO-FL-14-49",
       "tittel": {
         "nob": "Naturvernområde i Stryn kommune"
+      }
+    },
+    {
+      "kode": "VV-AO-TO-FL-15",
+      "tittel": {
+        "nob": "Naturvernområde i Møre og Romsdal fylke"
       }
     },
     {
@@ -1828,6 +1804,12 @@
       "kode": "VV-AO-TO-FL-15-76",
       "tittel": {
         "nob": "Naturvernområde i Aure kommune"
+      }
+    },
+    {
+      "kode": "VV-AO-TO-FL-18",
+      "tittel": {
+        "nob": "Naturvernområde i Nordland fylke"
       }
     },
     {
@@ -2095,6 +2077,12 @@
       }
     },
     {
+      "kode": "VV-AO-TO-FL-19",
+      "tittel": {
+        "nob": "Naturvernområde i Troms fylke"
+      }
+    },
+    {
       "kode": "VV-AO-TO-FL-19-02",
       "tittel": {
         "nob": "Naturvernområde i Tromsø kommune"
@@ -2239,6 +2227,12 @@
       }
     },
     {
+      "kode": "VV-AO-TO-FL-20",
+      "tittel": {
+        "nob": "Naturvernområde i Finnmark fylke"
+      }
+    },
+    {
       "kode": "VV-AO-TO-FL-20-02",
       "tittel": {
         "nob": "Naturvernområde i Vardø kommune"
@@ -2350,6 +2344,12 @@
       "kode": "VV-AO-TO-FL-20-30",
       "tittel": {
         "nob": "Naturvernområde i Sør-Varanger kommune"
+      }
+    },
+    {
+      "kode": "VV-AO-TO-FL-50",
+      "tittel": {
+        "nob": "Naturvernområde i Trøndelag fylke"
       }
     },
     {
@@ -2643,7 +2643,7 @@
   ],
   "meta": {
     "tittel": "Kommune",
-    "produsertUtc": "2019-09-22T19:04:00.987Z",
+    "produsertUtc": "2019-09-25T06:15:35.318Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/naturvern/master/kommune.json",
     "tool": {
