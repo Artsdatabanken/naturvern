@@ -125,9 +125,6 @@
               }
             }
           },
-          "navn": {
-            "type": "string"
-          },
           "relasjon": {
             "type": "array",
             "items": {
@@ -295,7 +292,6 @@
           "kodeautor",
           "lenke",
           "mediakilde",
-          "navn",
           "relasjon",
           "revisjon",
           "verneform",
@@ -342,7 +338,7 @@
   },
   "meta": {
     "tittel": "Type.schema",
-    "produsertUtc": "2019-09-25T06:15:40.416Z",
+    "produsertUtc": "2019-09-25T06:30:46.557Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/naturvern/master/type.schema.json",
     "tool": {
