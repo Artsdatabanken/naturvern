@@ -31,10 +31,7 @@
             }
           },
           "url": {
-            "type": [
-              "string",
-              "null"
-            ]
+            "type": "string"
           },
           "forvaltning": {
             "type": "object",
@@ -336,7 +333,7 @@
   },
   "meta": {
     "tittel": "Type.schema",
-    "produsertUtc": "2019-09-25T15:26:37.763Z",
+    "produsertUtc": "2019-09-28T13:16:26.129Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/naturvern/master/type.schema.json",
     "tool": {
