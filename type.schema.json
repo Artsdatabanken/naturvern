@@ -144,18 +144,15 @@
             }
           },
           "beskrivelse": {
-            "type": "string"
-          },
-          "infoUrl": {
-            "type": "string"
-          },
-          "ingress": {
             "type": "object",
             "properties": {
               "nob": {
                 "type": "string"
               }
             }
+          },
+          "infoUrl": {
+            "type": "string"
           }
         },
         "required": [
@@ -171,8 +168,7 @@
           "revisjon",
           "farge",
           "beskrivelse",
-          "infoUrl",
-          "ingress"
+          "infoUrl"
         ]
       }
     },
@@ -213,7 +209,7 @@
   },
   "meta": {
     "tittel": "Type.schema",
-    "produsertUtc": "2019-10-08T19:35:57.337Z",
+    "produsertUtc": "2019-10-08T19:55:33.866Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/naturvern/master/type.schema.json",
     "tool": {
