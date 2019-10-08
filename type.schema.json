@@ -27,6 +27,9 @@
               },
               "nob": {
                 "type": "string"
+              },
+              "url": {
+                "type": "string"
               }
             }
           },
@@ -169,6 +172,17 @@
           "verneform": {
             "type": "object",
             "properties": {
+              "infoUrl": {
+                "type": "string"
+              },
+              "ingress": {
+                "type": "object",
+                "properties": {
+                  "nob": {
+                    "type": "string"
+                  }
+                }
+              },
               "kode": {
                 "type": "string"
               },
@@ -179,6 +193,9 @@
                 "type": "object",
                 "properties": {
                   "nob": {
+                    "type": "string"
+                  },
+                  "url": {
                     "type": "string"
                   }
                 }
@@ -260,6 +277,17 @@
                 }
               }
             }
+          },
+          "infoUrl": {
+            "type": "string"
+          },
+          "ingress": {
+            "type": "object",
+            "properties": {
+              "nob": {
+                "type": "string"
+              }
+            }
           }
         },
         "required": [
@@ -277,7 +305,9 @@
           "verneform",
           "verneplan",
           "vurdering",
-          "farge"
+          "farge",
+          "infoUrl",
+          "ingress"
         ]
       }
     },
@@ -318,7 +348,7 @@
   },
   "meta": {
     "tittel": "Type.schema",
-    "produsertUtc": "2019-10-08T09:15:50.448Z",
+    "produsertUtc": "2019-10-08T10:56:37.448Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/naturvern/master/type.schema.json",
     "tool": {
