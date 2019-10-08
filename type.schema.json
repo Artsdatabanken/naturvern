@@ -26,10 +26,7 @@
                 "type": "string"
               },
               "nob": {
-                "type": [
-                  "null",
-                  "string"
-                ]
+                "type": "string"
               }
             }
           },
@@ -325,7 +322,7 @@
   },
   "meta": {
     "tittel": "Type.schema",
-    "produsertUtc": "2019-10-08T08:32:45.574Z",
+    "produsertUtc": "2019-10-08T09:06:51.070Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/naturvern/master/type.schema.json",
     "tool": {
