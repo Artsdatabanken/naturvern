@@ -22,9 +22,6 @@
           "tittel": {
             "type": "object",
             "properties": {
-              "nb": {
-                "type": "string"
-              },
               "nob": {
                 "type": "string"
               },
@@ -137,147 +134,6 @@
               }
             }
           },
-          "forvaltning": {
-            "type": "object",
-            "properties": {
-              "ansvarlig": {
-                "type": "object",
-                "properties": {
-                  "kode": {
-                    "type": "string"
-                  },
-                  "kodeautor": {
-                    "type": "string"
-                  },
-                  "navn": {
-                    "type": "object",
-                    "properties": {
-                      "nob": {
-                        "type": "string"
-                      }
-                    }
-                  }
-                }
-              },
-              "instans": {
-                "type": "object",
-                "properties": {
-                  "tittel": {
-                    "type": "string"
-                  }
-                }
-              }
-            }
-          },
-          "verneform": {
-            "type": "object",
-            "properties": {
-              "infoUrl": {
-                "type": "string"
-              },
-              "ingress": {
-                "type": "object",
-                "properties": {
-                  "nob": {
-                    "type": "string"
-                  }
-                }
-              },
-              "kode": {
-                "type": "string"
-              },
-              "kodeautor": {
-                "type": "string"
-              },
-              "tittel": {
-                "type": "object",
-                "properties": {
-                  "nob": {
-                    "type": "string"
-                  },
-                  "url": {
-                    "type": "string"
-                  }
-                }
-              }
-            }
-          },
-          "verneplan": {
-            "type": "object",
-            "properties": {
-              "kode": {
-                "type": "string"
-              },
-              "kodeautor": {
-                "type": "string"
-              },
-              "tittel": {
-                "type": "object",
-                "properties": {
-                  "nob": {
-                    "type": "string"
-                  }
-                }
-              }
-            }
-          },
-          "vurdering": {
-            "type": "object",
-            "properties": {
-              "iucn": {
-                "type": "object",
-                "properties": {
-                  "beskrivelse": {
-                    "type": "string"
-                  },
-                  "kode": {
-                    "type": "string"
-                  },
-                  "kodeautor": {
-                    "type": "string"
-                  },
-                  "lenke": {
-                    "type": "object",
-                    "properties": {
-                      "iucn": {
-                        "type": "string"
-                      }
-                    }
-                  },
-                  "navn": {
-                    "type": "object",
-                    "properties": {
-                      "eng": {
-                        "type": "string"
-                      },
-                      "nob": {
-                        "type": "string"
-                      }
-                    }
-                  }
-                }
-              },
-              "truet": {
-                "type": "object",
-                "properties": {
-                  "kode": {
-                    "type": "string"
-                  },
-                  "kodeautor": {
-                    "type": "string"
-                  },
-                  "navn": {
-                    "type": "object",
-                    "properties": {
-                      "nob": {
-                        "type": "string"
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          },
           "infoUrl": {
             "type": "string"
           },
@@ -301,10 +157,6 @@
           "mediakilde",
           "relasjon",
           "revisjon",
-          "forvaltning",
-          "verneform",
-          "verneplan",
-          "vurdering",
           "farge",
           "infoUrl",
           "ingress"
@@ -348,7 +200,7 @@
   },
   "meta": {
     "tittel": "Type.schema",
-    "produsertUtc": "2019-10-08T11:26:53.161Z",
+    "produsertUtc": "2019-10-08T11:31:08.654Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/naturvern/master/type.schema.json",
     "tool": {
