@@ -30,6 +30,9 @@
               },
               "eng": {
                 "type": "string"
+              },
+              "nb": {
+                "type": "string"
               }
             }
           },
@@ -210,7 +213,7 @@
   },
   "meta": {
     "tittel": "Type.schema",
-    "produsertUtc": "2019-10-08T18:56:00.007Z",
+    "produsertUtc": "2019-10-08T19:35:57.337Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/naturvern/master/type.schema.json",
     "tool": {
