@@ -36,38 +36,6 @@
           "url": {
             "type": "string"
           },
-          "forvaltning": {
-            "type": "object",
-            "properties": {
-              "ansvarlig": {
-                "type": "object",
-                "properties": {
-                  "kode": {
-                    "type": "string"
-                  },
-                  "kodeautor": {
-                    "type": "string"
-                  },
-                  "navn": {
-                    "type": "object",
-                    "properties": {
-                      "nob": {
-                        "type": "string"
-                      }
-                    }
-                  }
-                }
-              },
-              "instans": {
-                "type": "object",
-                "properties": {
-                  "tittel": {
-                    "type": "string"
-                  }
-                }
-              }
-            }
-          },
           "geografi": {
             "type": "object",
             "properties": {
@@ -166,6 +134,38 @@
               },
               "status": {
                 "type": "string"
+              }
+            }
+          },
+          "forvaltning": {
+            "type": "object",
+            "properties": {
+              "ansvarlig": {
+                "type": "object",
+                "properties": {
+                  "kode": {
+                    "type": "string"
+                  },
+                  "kodeautor": {
+                    "type": "string"
+                  },
+                  "navn": {
+                    "type": "object",
+                    "properties": {
+                      "nob": {
+                        "type": "string"
+                      }
+                    }
+                  }
+                }
+              },
+              "instans": {
+                "type": "object",
+                "properties": {
+                  "tittel": {
+                    "type": "string"
+                  }
+                }
               }
             }
           },
@@ -295,13 +295,13 @@
           "kode",
           "tittel",
           "url",
-          "forvaltning",
           "geografi",
           "kodeautor",
           "lenke",
           "mediakilde",
           "relasjon",
           "revisjon",
+          "forvaltning",
           "verneform",
           "verneplan",
           "vurdering",
@@ -348,7 +348,7 @@
   },
   "meta": {
     "tittel": "Type.schema",
-    "produsertUtc": "2019-10-08T10:56:37.448Z",
+    "produsertUtc": "2019-10-08T11:26:53.161Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/naturvern/master/type.schema.json",
     "tool": {
