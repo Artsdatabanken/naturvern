@@ -26,7 +26,10 @@
                 "type": "string"
               },
               "nob": {
-                "type": "string"
+                "type": [
+                  "null",
+                  "string"
+                ]
               }
             }
           },
@@ -43,7 +46,7 @@
                     "type": "string"
                   },
                   "kodeautor": {
-                    "type": "number"
+                    "type": "string"
                   },
                   "navn": {
                     "type": "object",
@@ -110,6 +113,9 @@
               }
             }
           },
+          "majorEcosystemType": {
+            "type": "string"
+          },
           "mediakilde": {
             "type": "object",
             "properties": {
@@ -156,16 +162,10 @@
                   "førstvernet": {
                     "type": "string"
                   },
-                  "plandato": {
-                    "type": "string"
-                  },
                   "vernet": {
                     "type": "string"
                   }
                 }
-              },
-              "planbehov": {
-                "type": "string"
               },
               "status": {
                 "type": "string"
@@ -223,7 +223,7 @@
                     "type": "string"
                   },
                   "kodeautor": {
-                    "type": "number"
+                    "type": "string"
                   },
                   "lenke": {
                     "type": "object",
@@ -246,12 +246,6 @@
                   }
                 }
               },
-              "moblandprioritet": {
-                "type": "string"
-              },
-              "nettverk": {
-                "type": "string"
-              },
               "truet": {
                 "type": "object",
                 "properties": {
@@ -259,10 +253,7 @@
                     "type": "string"
                   },
                   "kodeautor": {
-                    "type": [
-                      "number",
-                      "string"
-                    ]
+                    "type": "string"
                   },
                   "navn": {
                     "type": "object",
@@ -275,6 +266,9 @@
                 }
               }
             }
+          },
+          "foerstegangVernet": {
+            "type": "number"
           }
         },
         "required": [
@@ -286,12 +280,14 @@
           "geografi",
           "kodeautor",
           "lenke",
+          "majorEcosystemType",
           "mediakilde",
           "relasjon",
           "revisjon",
           "verneform",
           "verneplan",
           "vurdering",
+          "foerstegangVernet",
           "farge"
         ]
       }
@@ -333,7 +329,7 @@
   },
   "meta": {
     "tittel": "Type.schema",
-    "produsertUtc": "2019-09-28T13:16:26.129Z",
+    "produsertUtc": "2019-10-08T07:52:51.061Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/naturvern/master/type.schema.json",
     "tool": {
