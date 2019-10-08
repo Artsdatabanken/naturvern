@@ -113,9 +113,6 @@
               }
             }
           },
-          "majorEcosystemType": {
-            "type": "string"
-          },
           "mediakilde": {
             "type": "object",
             "properties": {
@@ -280,7 +277,6 @@
           "geografi",
           "kodeautor",
           "lenke",
-          "majorEcosystemType",
           "mediakilde",
           "relasjon",
           "revisjon",
@@ -329,7 +325,7 @@
   },
   "meta": {
     "tittel": "Type.schema",
-    "produsertUtc": "2019-10-08T07:52:51.061Z",
+    "produsertUtc": "2019-10-08T08:32:45.574Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/naturvern/master/type.schema.json",
     "tool": {
