@@ -79,6 +79,9 @@
               "wikipedia": {
                 "type": "string"
               },
+              "wdpa": {
+                "type": "string"
+              },
               "offisiell": {
                 "type": "string"
               },
@@ -209,7 +212,7 @@
   },
   "meta": {
     "tittel": "Type.schema",
-    "produsertUtc": "2019-10-13T23:50:45.432Z",
+    "produsertUtc": "2019-10-27T10:13:58.783Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/naturvern/master/type.schema.json",
     "tool": {
